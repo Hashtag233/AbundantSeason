@@ -1,0 +1,9 @@
+{
+  "parent": "wwworld:custom/sijizhihua",
+  "textures": {
+    "all": "wwworld:blocks/sijizhihua",
+    "particle": "wwworld:blocks/sijizhihua",
+    "0": "wwworld:blocks/sijizhihua",
+    "missing": "wwworld:blocks/sijizhihua"
+  }
+}

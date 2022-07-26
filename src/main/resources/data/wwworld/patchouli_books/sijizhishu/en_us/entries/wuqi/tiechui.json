@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 10,
+    "name": "铁锤",
+    "icon": "wwworld:chuizi",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:chuizi",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:11$(br2)耐久:650$(br2)是否防火:是"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:无$(br2)技能(右键)::让周围9x9的实体被震起来(冷却25秒)$(br2)特殊：当铁锤出现在物品栏时自身会有2级缓慢效果"
+      }
+    ]
+  }

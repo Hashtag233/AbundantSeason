@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wwworld:block/yuansuweidu",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wwworld:block/yuansuweidu"
+    },
+    "axis=z": {
+      "model": "wwworld:block/yuansuweidu",
+      "x": 90
+    }
+  }
+}

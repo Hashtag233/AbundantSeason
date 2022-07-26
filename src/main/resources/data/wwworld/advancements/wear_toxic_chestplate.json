@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:judukuijia_chestplate"
+    },
+    "title": {
+      "translate": "advancements.wear_toxic_chestplate.title"
+    },
+    "description": {
+      "translate": "advancements.wear_toxic_chestplate.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wear_toxic_chestplate": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 5
+  },
+  "parent": "wwworld:wear_loving_chestplate"
+}

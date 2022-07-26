@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:jingyanding"
+    },
+    "1": {
+      "item": "wwworld:jingyanding"
+    },
+    "2": {
+      "item": "wwworld:jingyanding"
+    },
+    "4": {
+      "item": "wwworld:chunzhigun"
+    },
+    "7": {
+      "item": "wwworld:chunzhigun"
+    }
+  },
+  "result": {
+    "item": "wwworld:jingyangao",
+    "count": 1
+  }
+}

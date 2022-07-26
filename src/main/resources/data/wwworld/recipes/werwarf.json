@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "1": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "2": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "3": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "4": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "5": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "6": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "7": {
+      "item": "wwworld:cubingshuangshi"
+    },
+    "8": {
+      "item": "wwworld:cubingshuangshi"
+    }
+  },
+  "result": {
+    "item": "wwworld:cubingshuangkuai",
+    "count": 1
+  }
+}

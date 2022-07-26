@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 7,
+    "name": "剧毒铁锤",
+    "icon": "wwworld:judutiechui",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:judutiechui",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:11$(br2)耐久:650$(br2)是否防火:是"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:让目标获得1级3秒剧毒效果$(br2)技能(右键):让周围9x9的实体被震起来+4级4秒中毒效果(冷却25秒)$(br2)特殊：当铁锤出现在物品栏时自身会有2级缓慢效果$(br2)材料获取小提示:剧毒元素可以通过击杀在春季群系—繁茂异林生成的剧毒刺猬有10％的概率获得1个$(br2)注意：此武器必须要在四季锻造台中合成，会有合成表提供"
+      }
+    ]
+  }

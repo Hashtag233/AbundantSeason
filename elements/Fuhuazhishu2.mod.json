@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "structure",
+  "definition": {
+    "structure": "fuxiuzhishu2",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 300000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -3,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Fuxiuweidu"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Fuxiucaofangkuai"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Guihunsenlin"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "generateCondition": {
+      "name": "Yingshu1FuJiaDeShengChengTiaoJian"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "title": {
+      "translate": "advancements.yu_shui_gui_hua_wan_cheng_ci_jiao_yi.title"
+    },
+    "description": {
+      "translate": "advancements.yu_shui_gui_hua_wan_cheng_ci_jiao_yi.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "yu_shui_gui_hua_wan_cheng_ci_jiao_yi": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:jisha_10zhiyezhu"
+}

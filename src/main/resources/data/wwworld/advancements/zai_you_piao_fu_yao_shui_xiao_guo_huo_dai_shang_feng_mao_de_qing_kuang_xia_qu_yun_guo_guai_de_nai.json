@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:yunnaitong"
+    },
+    "title": {
+      "translate": "advancements.zai_you_piao_fu_yao_shui_xiao_guo_huo_dai_shang_feng_mao_de_qing_kuang_xia_qu_yun_guo_guai_de_nai.title"
+    },
+    "description": {
+      "translate": "advancements.zai_you_piao_fu_yao_shui_xiao_guo_huo_dai_shang_feng_mao_de_qing_kuang_xia_qu_yun_guo_guai_de_nai.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "zai_you_piao_fu_yao_shui_xiao_guo_huo_dai_shang_feng_mao_de_qing_kuang_xia_qu_yun_guo_guai_de_nai": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:gong_ji_bing_qu_nai"
+}

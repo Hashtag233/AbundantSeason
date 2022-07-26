@@ -1,0 +1,21 @@
+{
+    "sortnum": 11,
+    "name": "萤火虫",
+    "icon": "wwworld:yinghuochong_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:yinghuochong",
+        "text": "生命值:4 攻击力:0 稀有度:低$(br)掉落物:发光元素"
+      },
+      {
+        "type": "text",
+        "text": "类型:友好(飞行)$(br)生成:春季群系—繁茂异林(萤火虫巨树树叶里有刷怪笼)$(br2)特点:$(br)贴图是发光的，晚上你将会看见它亮亮的大灯泡"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

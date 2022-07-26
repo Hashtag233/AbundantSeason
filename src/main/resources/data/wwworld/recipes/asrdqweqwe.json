@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:fuxiumuban"
+    },
+    "3": {
+      "item": "wwworld:fuxiumuban"
+    },
+    "4": {
+      "item": "wwworld:fuxiumuban"
+    },
+    "6": {
+      "item": "wwworld:fuxiumuban"
+    },
+    "7": {
+      "item": "wwworld:fuxiumuban"
+    },
+    "8": {
+      "item": "wwworld:fuxiumuban"
+    }
+  },
+  "result": {
+    "item": "wwworld:fuxiulouti",
+    "count": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_fv": 24,
+  "_type": "fluid",
+  "definition": {
+    "name": "Darkened Slime",
+    "bucketName": "Darkened Slime Bucket",
+    "textureStill": "fuxiuzhiyejing",
+    "textureFlowing": "fuxiuzhiyedong",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 1,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "CUSTOM:Fuhuazhiyediluolizi"
+    },
+    "flowStrength": 1.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "CUSTOM:Yuanjingwupin"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 60,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 80,
+    "spawnWorldTypes": [
+      "CUSTOM:Fuxiuweidu"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Guihunsenlin"
+      }
+    ],
+    "onTickUpdate": {
+      "name": "DiaolingjianghutongGengXinYouXiKe"
+    },
+    "onEntityCollides": {
+      "name": "FuhuazhiyeDangShengWuWanJiaPengZhuangFangKuaiShi"
+    }
+  }
+}

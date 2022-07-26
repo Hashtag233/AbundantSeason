@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/fu_hua_hui_sha_",
+    "particle": "wwworld:blocks/fu_hua_hui_sha_"
+  }
+}

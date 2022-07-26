@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Heianzhigun"
+      },
+      {
+        "value": "CUSTOM:Fuxiumuban"
+      },
+      {
+        "value": "CUSTOM:Heianzhigun"
+      },
+      {
+        "value": "CUSTOM:Heianzhigun"
+      },
+      {
+        "value": "CUSTOM:Fuxiumuban"
+      },
+      {
+        "value": "CUSTOM:Heianzhigun"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Fuxiuzhalanmen"
+    },
+    "name": "asdasdwasdc",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/hui_yan_kuai_",
+    "particle": "wwworld:blocks/hui_yan_kuai_"
+  }
+}

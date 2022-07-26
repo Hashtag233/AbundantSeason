@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/ying_guang_mo_gu_",
+    "particle": "wwworld:blocks/ying_guang_mo_gu_"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/fu_hua_chuan_song_men_fang_kuai_",
+    "particle": "wwworld:blocks/fu_hua_chuan_song_men_fang_kuai_"
+  }
+}

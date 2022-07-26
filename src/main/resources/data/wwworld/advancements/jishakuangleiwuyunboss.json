@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:wuyunkuai"
+    },
+    "title": {
+      "translate": "advancements.jishakuangleiwuyunboss.title"
+    },
+    "description": {
+      "translate": "advancements.jishakuangleiwuyunboss.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jishakuangleiwuyunboss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:huo_de_qiu_ji_gu_shi_zhi_zhang"
+}

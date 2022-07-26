@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/feng_mi_hua_",
+    "particle": "wwworld:blocks/feng_mi_hua_"
+  }
+}

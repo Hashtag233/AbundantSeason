@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/bing_la_jiao_cong_wu_guo_",
+    "particle": "wwworld:blocks/bing_la_jiao_cong_wu_guo_"
+  }
+}

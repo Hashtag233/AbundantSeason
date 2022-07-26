@@ -1,0 +1,17 @@
+{
+    "sortnum": 1,
+    "name": "冰霜之羽",
+    "icon": "wwworld:bingshuangyumao",
+    "category": "faqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:bingshuangyumao",
+        "text": "技能:使13x13x13范围内(除了本身)所有实体获得6级5秒缓慢效果(冷却30秒)$(br2)耐久:350$(br2)材料获取小提示:奇异羽毛是通过击杀秋季群系—风林的鸡精怪有概率获得的"
+    },
+    {
+          "type": "text",
+          "text": "注意：此武器必须要在四季锻造台中合成，会有合成表提供"
+      }
+    ]
+  }

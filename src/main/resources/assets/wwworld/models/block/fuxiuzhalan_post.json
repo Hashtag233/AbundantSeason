@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "wwworld:blocks/wither_planks",
+    "particle": "wwworld:blocks/wither_planks"
+  }
+}

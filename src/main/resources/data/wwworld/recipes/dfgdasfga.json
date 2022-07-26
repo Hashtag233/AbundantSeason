@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "1": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "2": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "3": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "4": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "5": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "7": {
+      "item": "wwworld:chunzhigun"
+    }
+  },
+  "result": {
+    "item": "wwworld:chijian",
+    "count": 1
+  }
+}

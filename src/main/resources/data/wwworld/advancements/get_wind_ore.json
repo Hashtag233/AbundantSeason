@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:fengzhikuangshi"
+    },
+    "title": {
+      "translate": "advancements.get_wind_ore.title"
+    },
+    "description": {
+      "translate": "advancements.get_wind_ore.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_wind_ore": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "wwworld:sijiangranmaoxian"
+}

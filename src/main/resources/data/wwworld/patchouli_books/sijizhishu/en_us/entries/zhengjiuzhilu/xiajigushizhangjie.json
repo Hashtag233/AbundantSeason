@@ -1,0 +1,14 @@
+{
+    "sortnum":5,
+    "advancement": "wwworld:huo_de_xia_ji_gu_shi_zhi_zhang",
+    "name": "夏季故事纸张",
+    "icon": "wwworld:xiajigushizhizhang",
+    "category": "zhengjiuzhilu",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:xiajigushizhizhang",
+      "text": "那个小村庄里的一个居民发现自己的孩子不见了，于是到处找可是哪都没能找到，就在几天后四季崩裂开始分崩离析。几百年后人们已经忘了那个人的警告，变得越来越贪婪，更加毫无人性地破坏主世界。四季也随着人类对主世界地破坏逐渐被削弱了，神秘人有了可乘之机。"
+      }  
+    ]
+  }

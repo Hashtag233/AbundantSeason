@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wwworld:block/nangua"
+    },
+    "facing=east": {
+      "model": "wwworld:block/nangua",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wwworld:block/nangua",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wwworld:block/nangua",
+      "y": 270
+    }
+  }
+}

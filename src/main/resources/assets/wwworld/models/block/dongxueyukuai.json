@@ -1,0 +1,9 @@
+{
+  "parent": "wwworld:custom/dongxueyufangkuai",
+  "textures": {
+    "all": "wwworld:blocks/cod",
+    "particle": "wwworld:blocks/cod",
+    "1": "wwworld:blocks/cod",
+    "2": "wwworld:blocks/dongyu"
+  }
+}

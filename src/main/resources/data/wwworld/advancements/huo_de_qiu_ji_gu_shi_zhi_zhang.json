@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:qiujigushizhizhang"
+    },
+    "title": {
+      "translate": "advancements.huo_de_qiu_ji_gu_shi_zhi_zhang.title"
+    },
+    "description": {
+      "translate": "advancements.huo_de_qiu_ji_gu_shi_zhi_zhang.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "huo_de_qiu_ji_gu_shi_zhi_zhang": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "wwworld:qiujigushizhizhang",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "wwworld:huodechunjigushizhizhang"
+}

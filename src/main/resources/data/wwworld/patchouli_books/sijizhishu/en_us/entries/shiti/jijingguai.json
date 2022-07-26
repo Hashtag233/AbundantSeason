@@ -1,0 +1,21 @@
+{
+    "sortnum": 4,
+    "name": "鸡精怪",
+    "icon": "wwworld:jijingxiao_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:jijingxiao",
+        "text": "生命值:6 攻击力:2 稀有度:低$(br)掉落物:奇异羽毛"
+      },
+      {
+        "type": "text",
+        "text": "类型:中立(陆地)$(br)生成:秋季群系—风林(全天)$(br2)特点:$(br)第一形态—像一只黄色的鸡$(br)第二形态—攻击力和速度都比第一形态提高了"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:entity_melting",
+  "entity": {
+    "types": [
+      "wwworld:yinghuochong"
+    ]
+  },
+  "result": {
+    "fluid": "wwworld:liquid_glow",
+    "amount": 16
+  },
+  "damage": 2
+}

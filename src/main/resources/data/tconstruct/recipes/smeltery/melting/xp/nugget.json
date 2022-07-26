@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "wwworld:jingyanqiu"
+  },
+  "result": {
+    "fluid": "wwworld:liquid_xp",
+    "amount": 16
+  },
+  "temperature": 120,
+  "time": 11
+}

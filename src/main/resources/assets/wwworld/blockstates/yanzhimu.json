@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wwworld:block/yanzhimu",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wwworld:block/yanzhimu"
+    },
+    "axis=z": {
+      "model": "wwworld:block/yanzhimu",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "qierou",
+    "customModelName": "Normal",
+    "name": "Raw Penguin Meat",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 12,
+    "saturation": 7.0,
+    "eatingSpeed": 40,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "Qie1DangShiWuBeiChiShi"
+    }
+  }
+}

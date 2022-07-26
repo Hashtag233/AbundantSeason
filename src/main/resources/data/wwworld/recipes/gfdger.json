@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:posuidexiajigushizhizhang"
+    },
+    "1": {
+      "item": "wwworld:posuidexiajigushizhizhang"
+    },
+    "2": {
+      "item": "wwworld:posuidexiajigushizhizhang"
+    },
+    "3": {
+      "item": "wwworld:posuidexiajigushizhizhang"
+    },
+    "4": {
+      "item": "wwworld:posuidexiajigushizhizhang"
+    },
+    "5": {
+      "item": "wwworld:posuidexiajigushizhizhang"
+    }
+  },
+  "result": {
+    "item": "wwworld:xiajigushizhizhang",
+    "count": 1
+  }
+}

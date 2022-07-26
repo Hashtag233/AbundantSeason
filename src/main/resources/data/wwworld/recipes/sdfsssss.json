@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yunduosuipian"
+    },
+    "1": {
+      "item": "wwworld:yunduosuipian"
+    },
+    "2": {
+      "item": "wwworld:yunduosuipian"
+    },
+    "3": {
+      "item": "wwworld:yunduosuipian"
+    }
+  },
+  "result": {
+    "item": "wwworld:yunduofangkuai",
+    "count": 1
+  }
+}

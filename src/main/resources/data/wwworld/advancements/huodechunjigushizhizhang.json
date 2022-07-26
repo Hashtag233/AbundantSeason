@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:chunjigushizhizhang"
+    },
+    "title": {
+      "translate": "advancements.huodechunjigushizhizhang.title"
+    },
+    "description": {
+      "translate": "advancements.huodechunjigushizhizhang.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "huodechunjigushizhizhang": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "wwworld:chunjigushizhizhang",
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "wwworld:enter_seasons"
+}

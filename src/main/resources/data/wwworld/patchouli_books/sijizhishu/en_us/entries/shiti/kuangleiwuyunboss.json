@@ -1,0 +1,22 @@
+{
+    "sortnum": 17,
+    "advancement": "wwworld:jishakuangleiwuyunboss",
+    "name": "狂雷乌云boss",
+    "icon": "wwworld:wu_yunboss_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:wu_yunboss",
+        "text": "生命值:250 攻击力:0 稀有度:?$(br)掉落物:秋季宝石"
+      },
+      {
+        "type": "text",
+        "text": "类型:敌对(飞行)$(br)生成:用秋季故事纸张右键狂雷祭坛$(br2)特点:$(br)与实体碰撞会一直产生闪电$(br)技能:$(br)1.发射带有5道闪电的子弹攻击玩家$(br)2.会有规律落下24道闪电击中地面，并且生成6个小乌云$(br)3.自身会有发光效果，在发光效果期间不能受到任何伤害"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

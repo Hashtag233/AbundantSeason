@@ -1,0 +1,35 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "boluoci",
+    "customModelName": "Normal",
+    "name": "Toxic Pineapple",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 2.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "JianciboluoDangYouJianDianJiFangKuaiShi"
+    },
+    "onEaten": {
+      "name": "JianciboluoDangShiWuBeiChiShi"
+    },
+    "onItemInUseTick": {
+      "name": "JianciboluoDangWuPinZaiShouShangMeiKeFaSheng"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/lu_wei_down",
+    "particle": "wwworld:blocks/lu_wei_down"
+  }
+}

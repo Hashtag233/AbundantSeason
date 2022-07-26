@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:dongzhimuban"
+    },
+    "1": {
+      "item": "wwworld:dongzhimuban"
+    }
+  },
+  "result": {
+    "item": "wwworld:dongzhimuyaliban",
+    "count": 1
+  }
+}

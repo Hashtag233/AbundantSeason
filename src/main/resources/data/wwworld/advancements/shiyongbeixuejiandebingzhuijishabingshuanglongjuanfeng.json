@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:beixuejiandebingzhui"
+    },
+    "title": {
+      "translate": "advancements.shiyongbeixuejiandebingzhuijishabingshuanglongjuanfeng.title"
+    },
+    "description": {
+      "translate": "advancements.shiyongbeixuejiandebingzhuijishabingshuanglongjuanfeng.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "shiyongbeixuejiandebingzhuijishabingshuanglongjuanfeng": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "wwworld:jisha_10zhilongjuanfeng"
+}

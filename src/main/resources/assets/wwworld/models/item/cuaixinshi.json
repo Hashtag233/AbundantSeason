@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wwworld:items/ai_xin_sheng_kuang_"
+  }
+}

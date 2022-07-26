@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "1": {
+      "item": "wwworld:aixinzhikuai"
+    },
+    "2": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "3": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "5": {
+      "item": "wwworld:aixinzhiding"
+    }
+  },
+  "result": {
+    "item": "wwworld:aixin_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "wwworld:blocks/chun_ji_mu_ban_",
+    "particle": "wwworld:blocks/chun_ji_mu_ban_"
+  }
+}

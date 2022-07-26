@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 6,
+    "name": "经验剑",
+    "icon": "wwworld:jingyanjian",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:jingyanjian",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:6$(br2)耐久:500$(br2)是否防火:否"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:使目标爆出3x4经验球$(br2)材料获取小提示:经验锭可以通过在春季群系—繁茂异林地下挖取经验矿石获得“经验球”并再次合成即可"
+      }
+    ]
+  }

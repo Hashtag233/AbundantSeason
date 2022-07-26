@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:mtou"
+    },
+    "1": {
+      "item": "wwworld:mtou"
+    },
+    "2": {
+      "item": "wwworld:mtou"
+    },
+    "3": {
+      "item": "wwworld:mtou"
+    },
+    "4": {
+      "item": "wwworld:mtou"
+    },
+    "5": {
+      "item": "wwworld:mtou"
+    }
+  },
+  "result": {
+    "item": "wwworld:chunzhihuoobanmen",
+    "count": 2
+  }
+}

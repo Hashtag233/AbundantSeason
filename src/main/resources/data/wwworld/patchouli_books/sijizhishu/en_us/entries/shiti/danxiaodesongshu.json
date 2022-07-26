@@ -1,0 +1,21 @@
+{
+    "sortnum": 9,
+    "name": "胆小的松鼠",
+    "icon": "wwworld:songshu_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:songshu",
+        "text": "生命值:5 攻击力:0 稀有度:?$(br)掉落物:松果"
+      },
+      {
+        "type": "text",
+        "text": "类型:友好(陆地)$(br)生成:春季群系—繁茂异林(如果周围没有胆小的松鼠，松树上的松果洞会刷新出来)$(br2)特点:$(br)被攻击会逃跑得特别快，驯服后会特别粘人，但没用"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

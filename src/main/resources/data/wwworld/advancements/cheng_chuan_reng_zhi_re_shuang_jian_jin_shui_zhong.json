@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:zhirejian"
+    },
+    "title": {
+      "translate": "advancements.cheng_chuan_reng_zhi_re_shuang_jian_jin_shui_zhong.title"
+    },
+    "description": {
+      "translate": "advancements.cheng_chuan_reng_zhi_re_shuang_jian_jin_shui_zhong.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cheng_chuan_reng_zhi_re_shuang_jian_jin_shui_zhong": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 12
+  },
+  "parent": "wwworld:wear_light_helmet"
+}

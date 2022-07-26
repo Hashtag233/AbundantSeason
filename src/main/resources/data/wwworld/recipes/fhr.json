@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "2": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "3": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "5": {
+      "item": "wwworld:zhirezhishi"
+    }
+  },
+  "result": {
+    "item": "wwworld:zhirexingzhe_boots",
+    "count": 1
+  }
+}

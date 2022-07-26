@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 3,
+    "name": "齿剑",
+    "icon": "wwworld:chijian",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:chijian",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:15$(br2)耐久:550$(br2)是否防火:是"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:35％会让目标再获得15点伤害$(br2)技能(右键):让周围13x13的实体被弹开(冷却15秒)$(br2)材料获取小提示:野猪牙齿可以通过击杀在春季群系—繁茂异林的野猪有20％获得一个，有5％获得两个"
+      }
+    ]
+  }

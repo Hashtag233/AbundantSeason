@@ -1,0 +1,21 @@
+{
+    "sortnum": 3,
+    "advancement": "wwworld:enter_summer",
+    "name": "炙热之镐",
+    "icon": "wwworld:zhiregao",
+    "category": "gongju",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:zhiregao",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久:500$(br2)挖掘等级:4(统一)$(br2)效率:4$(br2)附魔能力:0"
+      },
+      {
+        "type": "text",
+        "text": "特点:破坏的矿石x2倍(目前对于其他mod矿石无法起作用)$(br2)材料获取小提示:炙热之石可以通过在夏季群系—火山地带的地下甚至是地表挖取炙热矿石获得炙热之粒再合成获得"
+      }
+        
+        
+      
+    ]
+  }

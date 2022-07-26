@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "1": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "2": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "3": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "4": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "5": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "6": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "7": {
+      "item": "wwworld:yingzhicailiao"
+    },
+    "8": {
+      "item": "wwworld:yingzhicailiao"
+    }
+  },
+  "result": {
+    "item": "wwworld:shenshengxiangnag",
+    "count": 1
+  }
+}

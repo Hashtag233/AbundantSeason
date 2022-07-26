@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "item": "wwworld:chunzhigun"
+    }
+  },
+  "result": {
+    "item": "wwworld:caidao",
+    "count": 1
+  }
+}

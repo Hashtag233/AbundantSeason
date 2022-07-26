@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:yezhuyachi"
+    },
+    "title": {
+      "translate": "advancements.jisha_10zhiyezhu.title"
+    },
+    "description": {
+      "translate": "advancements.jisha_10zhiyezhu.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jisha_10zhiyezhu": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 12
+  },
+  "parent": "wwworld:jisha_10zhilongjuanfeng"
+}

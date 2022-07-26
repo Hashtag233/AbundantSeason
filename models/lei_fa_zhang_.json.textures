@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "leiming1",
+        "1": "leiming2",
+        "2": "leiming3",
+        "3": "all2"
+      },
+      "name": "default"
+    }
+  }
+}

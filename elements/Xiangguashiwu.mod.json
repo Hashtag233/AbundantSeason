@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "xiang_gua_wu_pin_",
+    "customModelName": "Normal",
+    "name": "Melon",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 6,
+    "saturation": 8.0,
+    "eatingSpeed": 48,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "XiangguashiwuDangYouJianDianJiFangKuaiShi"
+    },
+    "onEaten": {
+      "name": "XiangguashiwuDangShiWuBeiChiShi"
+    }
+  }
+}

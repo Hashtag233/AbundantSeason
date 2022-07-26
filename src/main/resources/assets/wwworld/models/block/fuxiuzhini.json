@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/diao_ling_tu_kuai_",
+    "particle": "wwworld:blocks/diao_ling_tu_kuai_"
+  }
+}

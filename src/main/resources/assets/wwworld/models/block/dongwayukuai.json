@@ -1,0 +1,9 @@
+{
+  "parent": "wwworld:custom/dongwayufangkuai",
+  "textures": {
+    "all": "wwworld:blocks/salmon",
+    "particle": "wwworld:blocks/salmon",
+    "1": "wwworld:blocks/salmon",
+    "2": "wwworld:blocks/dongyu"
+  }
+}

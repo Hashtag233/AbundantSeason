@@ -1,0 +1,20 @@
+{
+    "sortnum": 2,
+    "name": "经验类工具",
+    "icon": "wwworld:qiuzhigao",
+    "category": "gongju",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:qiuzhigao,,wwworld:qiuzhifu,,wwworld:fengzhichan",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(镐子——>铲子):500(统一)$(br2)挖掘等级:4(统一)$(br2)效率:13(统一)$(br2)附魔能力:0(统一)"
+      },
+      {
+        "type": "text",
+        "text": "特点:破坏速度超快$(br2)材料获取小提示:风之锭可以通过在秋季群系—风林的一些带有果实（风之矿石）的树上，攀爬藤蔓，挖取果实（风之矿石）来获得风粒，再合成获得，风之矿石在荧光洞穴也会生成哦"
+      }
+        
+        
+      
+    ]
+  }

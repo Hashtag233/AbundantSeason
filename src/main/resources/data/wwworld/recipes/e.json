@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "wwworld:cubingshuangshi"
+  },
+  "result": {
+    "item": "wwworld:bingshuangzhiding"
+  }
+}

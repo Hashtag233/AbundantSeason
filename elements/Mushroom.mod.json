@@ -1,0 +1,86 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.BROWN_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.MUSHROOM_STEM"
+      },
+      {
+        "value": "CUSTOM:Shuye"
+      },
+      {
+        "value": "Blocks.MOB_SPAWNER"
+      },
+      {
+        "value": "Blocks.SOUL_LANTERN"
+      },
+      {
+        "value": "CUSTOM:Shumu"
+      },
+      {
+        "value": "Blocks.VINE"
+      },
+      {
+        "value": "CUSTOM:S"
+      },
+      {
+        "value": "CUSTOM:Lizhi"
+      },
+      {
+        "value": "Blocks.SHROOMLIGHT"
+      },
+      {
+        "value": "CUSTOM:Songguodong"
+      },
+      {
+        "value": "Blocks.BEE_NEST"
+      },
+      {
+        "value": "CUSTOM:Yingzhiye"
+      },
+      {
+        "value": "CUSTOM:Yingzhimu"
+      },
+      {
+        "value": "CUSTOM:Qiuzhishuye"
+      },
+      {
+        "value": "CUSTOM:Fengzhikuangshi"
+      },
+      {
+        "value": "CUSTOM:Qiuzhitengwan"
+      },
+      {
+        "value": "CUSTOM:Qiuzhishumu"
+      },
+      {
+        "value": "CUSTOM:Yunduofangkuai"
+      },
+      {
+        "value": "CUSTOM:Wuyunkuai"
+      },
+      {
+        "value": "CUSTOM:Dongzhiye"
+      },
+      {
+        "value": "CUSTOM:Bluetree"
+      },
+      {
+        "value": "CUSTOM:Bingdongguo"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "mushroom",
+    "namespace": "mod"
+  }
+}

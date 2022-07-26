@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wwworld:block/bingshuangjitan"
+    },
+    "facing=east": {
+      "model": "wwworld:block/bingshuangjitan",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wwworld:block/bingshuangjitan",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wwworld:block/bingshuangjitan",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/shaojiaodeguoshi2",
+    "up": "wwworld:blocks/shaojiaodeguoshi2",
+    "north": "wwworld:blocks/shaojiaodeguoshi",
+    "east": "wwworld:blocks/shaojiaodeguoshi",
+    "south": "wwworld:blocks/shaojiaodeguoshi",
+    "west": "wwworld:blocks/shaojiaodeguoshi",
+    "particle": "wwworld:blocks/shaojiaodeguoshi2"
+  }
+}

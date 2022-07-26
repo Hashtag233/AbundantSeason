@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 5,
+    "name": "风之镰刀",
+    "icon": "wwworld:fengzhiliandao",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:fengzhiliandao",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:10$(br2)耐久:400$(br2)是否防火:否"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:使自身获得3秒4级速度效果$(br2)材料获取小提示:风之锭可以通过在秋季群系—风林的一些带有果实（风之矿石）的树上，攀爬藤蔓，挖取果实（风之矿石）来获得风粒，再合成获得，风之矿石在荧光洞穴也会生成哦"
+      }
+    ]
+  }

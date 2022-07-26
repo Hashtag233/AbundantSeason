@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 75,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Xiazhidifangkuai"
+    },
+    "blastingReturnStack": {
+      "value": "Blocks.STAINED_GLASS#15"
+    },
+    "name": "asda",
+    "namespace": "mod"
+  }
+}

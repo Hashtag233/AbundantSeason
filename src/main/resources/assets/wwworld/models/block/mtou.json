@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/chun_ji_mu_ban_",
+    "particle": "wwworld:blocks/chun_ji_mu_ban_"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 24,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Tactical Mining",
+    "achievementDescription": "Use scissors to collect a Wind Ore.",
+    "achievementIcon": {
+      "value": "CUSTOM:Fengzhikuangshi"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 4,
+    "achievementType": "task",
+    "parent": {
+      "value": "CUSTOM:Sijiangranmaoxian"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"custom_trigger\" x=\"-32\" y=\"25\"><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

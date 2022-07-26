@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:wuyunbaoshi"
+    },
+    "1": {
+      "item": "wwworld:wuyunbaoshi"
+    },
+    "2": {
+      "item": "wwworld:fengzhimugun"
+    }
+  },
+  "result": {
+    "item": "wwworld:lightning_sword",
+    "count": 1
+  }
+}

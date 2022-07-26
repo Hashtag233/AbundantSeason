@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wwworld:block/bluetree",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wwworld:block/bluetree"
+    },
+    "axis=z": {
+      "model": "wwworld:block/bluetree",
+      "x": 90
+    }
+  }
+}

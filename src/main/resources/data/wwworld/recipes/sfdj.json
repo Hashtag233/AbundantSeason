@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "1": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "2": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "3": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "4": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "5": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "6": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "7": {
+      "item": "wwworld:qian_hai_hua_ban"
+    },
+    "8": {
+      "item": "wwworld:qian_hai_hua_ban"
+    }
+  },
+  "result": {
+    "item": "wwworld:qian_hai_hua_quan_helmet",
+    "count": 1
+  }
+}

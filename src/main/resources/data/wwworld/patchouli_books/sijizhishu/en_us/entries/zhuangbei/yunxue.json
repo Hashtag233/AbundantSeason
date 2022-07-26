@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 4,
+    "name": "云靴",
+    "icon": "wwworld:xuezi_boots",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:xuezi_boots",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔):33$(br2)附魔能力:3"
+      },
+      {
+        "type": "text",
+        "text": "特点:你将一直拥有缓降效果$(br2)材料获取小提示:云快可以通过在秋季群系—坠落天空的上方找到拥有很多云块的白云团结构，挖掘后获得白云碎片，再合成即可"
+      }
+        
+        
+      
+    ]
+  }

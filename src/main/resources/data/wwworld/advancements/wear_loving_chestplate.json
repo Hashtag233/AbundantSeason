@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:aixin_chestplate"
+    },
+    "title": {
+      "translate": "advancements.wear_loving_chestplate.title"
+    },
+    "description": {
+      "translate": "advancements.wear_loving_chestplate.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wear_loving_chestplate": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 8
+  },
+  "parent": "wwworld:eat_rice"
+}

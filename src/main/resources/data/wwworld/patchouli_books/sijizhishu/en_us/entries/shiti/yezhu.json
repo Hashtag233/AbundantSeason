@@ -1,0 +1,21 @@
+{
+    "sortnum": 6,
+    "name": "野猪",
+    "icon": "wwworld:yezhu_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:yezhu",
+        "text": "生命值:12 攻击力:5 稀有度:中$(br)掉落物:野猪牙齿"
+      },
+      {
+        "type": "text",
+        "text": "类型:敌对(陆地)$(br)生成:春季群系—繁茂异林(全天)$(br2)特点:$(br)有着跟玩家跑起来一样快的速度，用尖利的獠牙顶飞（击退）猎物"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

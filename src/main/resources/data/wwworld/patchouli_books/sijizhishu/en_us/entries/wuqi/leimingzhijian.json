@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 8,
+    "name": "雷鸣之剑",
+    "icon": "wwworld:lightning_sword",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:lightning_sword",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:12$(br2)耐久:500$(br2)是否防火:是"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:20％使目标拥有2秒麻痹效果$(br2)技能(右键):向前方发射8道闪电(冷却25秒)$(br2)材料获取小提示:乌云宝石可以通过在秋季群系—坠落天空找到乌云团结构，挖取乌云块有概率刷出一个乌云哥哥，击杀乌云哥哥有概率获得1-3个乌云碎片，再合成即可"
+      }
+    ]
+  }

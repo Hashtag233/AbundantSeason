@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:shizi"
+    },
+    "1": {
+      "item": "wwworld:shizi"
+    },
+    "2": {
+      "item": "wwworld:shizi"
+    },
+    "3": {
+      "item": "wwworld:shizi"
+    },
+    "4": {
+      "item": "wwworld:shizi"
+    },
+    "5": {
+      "item": "wwworld:shizi"
+    },
+    "6": {
+      "item": "wwworld:shizi"
+    },
+    "7": {
+      "item": "wwworld:shizi"
+    },
+    "8": {
+      "item": "wwworld:shizi"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:zhirezhili"
+    },
+    "1": {
+      "item": "wwworld:zhirezhili"
+    },
+    "2": {
+      "item": "wwworld:zhirezhili"
+    },
+    "3": {
+      "item": "wwworld:zhirezhili"
+    },
+    "4": {
+      "item": "wwworld:zhirezhili"
+    },
+    "5": {
+      "item": "wwworld:zhirezhili"
+    },
+    "6": {
+      "item": "wwworld:zhirezhili"
+    },
+    "7": {
+      "item": "wwworld:zhirezhili"
+    },
+    "8": {
+      "item": "wwworld:zhirezhili"
+    }
+  },
+  "result": {
+    "item": "wwworld:zhirezhishi",
+    "count": 1
+  }
+}

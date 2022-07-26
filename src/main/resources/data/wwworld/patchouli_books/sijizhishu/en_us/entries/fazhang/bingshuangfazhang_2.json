@@ -1,0 +1,18 @@
+{
+    "sortnum": 2,
+    "name": "冰霜法杖(2级)",
+    "icon": "wwworld:bingshuangfazhang_2",
+    "category": "fazhang",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:bingshuangfazhang_2",
+
+      "text": "攻击伤害:5$(br2)普攻特别效果:击中实体或方块周围5x5范围的实体都将获得结霜效果$(br2)耐久:600$(br2)材料获取小提示:冰霜之锭可以通过在冬季群系—寒潮林90格高以上挖掘冰霜矿石并烧制获得"
+      },
+      {
+        "type": "text",
+         "text": "注意：此武器必须要在四季锻造台中合成，会有合成表提供"
+      }
+    ]
+  }

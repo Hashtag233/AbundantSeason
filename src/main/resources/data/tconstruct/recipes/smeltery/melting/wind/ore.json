@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "item": "wwworld:fengzhikuangshi"
+  },
+  "result": {
+    "fluid": "wwworld:molten_wind",
+    "amount": 48
+  },
+  "temperature": 960,
+  "time": 181,
+  "byproducts": [
+    {
+      "fluid": "wwworld:liquid_xp",
+      "amount": 16
+    }
+  ]
+}

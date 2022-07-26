@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "wwworld:textures/sijizhini.png",
+    "icon": {
+      "item": "wwworld:yuansuweidu"
+    },
+    "title": {
+      "translate": "advancements.enter_seasons.title"
+    },
+    "description": {
+      "translate": "advancements.enter_seasons.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enter_seasons": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "wwworld:sijishijie"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3
+  }
+}

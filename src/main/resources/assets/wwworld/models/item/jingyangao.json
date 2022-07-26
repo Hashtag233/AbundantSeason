@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wwworld:items/jing_yan_hao_zi_"
+  }
+}

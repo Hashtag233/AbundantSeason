@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/chun_zhi_cao_fang_kuai_",
+    "particle": "wwworld:blocks/chun_zhi_cao_fang_kuai_"
+  }
+}

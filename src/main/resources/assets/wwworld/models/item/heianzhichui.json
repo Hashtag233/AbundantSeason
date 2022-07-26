@@ -1,0 +1,7 @@
+{
+  "parent": "wwworld:custom/fenglingzhanchui",
+  "textures": {
+    "1": "wwworld:blocks/fenglingzhanchui",
+    "particle": "wwworld:items/fenglingzhanchui"
+  }
+}

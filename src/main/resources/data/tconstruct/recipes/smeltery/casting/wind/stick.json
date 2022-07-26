@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:stick"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "wwworld:molten_wind",
+    "amount": 36
+  },
+  "result": "wwworld:fengzhimugun",
+  "cooling_time": 61
+}

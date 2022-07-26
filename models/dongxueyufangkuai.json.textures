@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cod",
+        "2": "dongyu"
+      },
+      "name": "default"
+    }
+  }
+}

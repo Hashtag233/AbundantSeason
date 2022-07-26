@@ -1,0 +1,15 @@
+{
+    "sortnum":6,
+    "advancement": "wwworld:huo_de_qiu_ji_gu_shi_zhi_zhang",
+    "name": "秋季故事纸张",
+    "icon": "wwworld:qiujigushizhizhang",
+    "category": "zhengjiuzhilu",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:qiujigushizhizhang",
+
+      "text": "突然有一天，风就像有生命一般的呼啸着，整个主世界开始颤抖了起来，随着一声巨响，神秘人第四次来到了主世界，但这次他利用了黑暗之力，带走了整个主世界的四季，也带走了大部分盎然的生机，只留下没有四季的主世界给人类，让人类活在绝望之中。"
+      }  
+    ]
+  }

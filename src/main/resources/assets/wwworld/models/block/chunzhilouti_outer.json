@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "wwworld:blocks/chun_ji_mu_ban_",
+    "top": "wwworld:blocks/chun_ji_mu_ban_",
+    "side": "wwworld:blocks/chun_ji_mu_ban_"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/fire_log_leaves",
+    "particle": "wwworld:blocks/fire_log_leaves"
+  }
+}

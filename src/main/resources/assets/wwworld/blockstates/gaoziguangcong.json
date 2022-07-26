@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "wwworld:block/gaoziguangcong"
+    },
+    "half=lower": {
+      "model": "wwworld:block/gaoziguangcong_bottom"
+    }
+  }
+}

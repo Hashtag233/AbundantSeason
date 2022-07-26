@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwworld:mtou"
+    }
+  ],
+  "result": {
+    "item": "wwworld:chunzhimuanniu",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:yunkuai"
+    },
+    "title": {
+      "translate": "advancements.enter_fallen_sky.title"
+    },
+    "description": {
+      "translate": "advancements.enter_fallen_sky.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enter_fallen_sky": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "wwworld:zhui_luo_tian_kong"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "wwworld:drink_lava_bottle"
+}

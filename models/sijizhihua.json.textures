@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sijizhihua",
+        "missing": "sijizhihua"
+      },
+      "name": "default"
+    }
+  }
+}

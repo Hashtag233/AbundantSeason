@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "wwworld:molten_loving",
+    "amount": 1296
+  },
+  "result": "wwworld:aixinzhikuai",
+  "cooling_time": 181
+}

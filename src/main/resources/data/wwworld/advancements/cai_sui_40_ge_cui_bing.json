@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:cuibing_3"
+    },
+    "title": {
+      "translate": "advancements.cai_sui_40_ge_cui_bing.title"
+    },
+    "description": {
+      "translate": "advancements.cai_sui_40_ge_cui_bing.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cai_sui_40_ge_cui_bing": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:chi_li_zhi_chi_dao_chong_zi"
+}

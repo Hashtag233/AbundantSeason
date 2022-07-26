@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:huijin"
+    },
+    "1": {
+      "item": "wwworld:huijin"
+    },
+    "2": {
+      "item": "wwworld:huijin"
+    },
+    "3": {
+      "item": "wwworld:huijin"
+    },
+    "4": {
+      "item": "wwworld:huijin"
+    },
+    "5": {
+      "item": "wwworld:huijin"
+    },
+    "6": {
+      "item": "wwworld:huijin"
+    },
+    "7": {
+      "item": "wwworld:huijin"
+    },
+    "8": {
+      "item": "wwworld:huijin"
+    }
+  },
+  "result": {
+    "item": "wwworld:xiazhidifangkuai",
+    "count": 1
+  }
+}

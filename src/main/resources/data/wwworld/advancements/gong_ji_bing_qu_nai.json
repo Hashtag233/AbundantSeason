@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:yunnaitong"
+    },
+    "title": {
+      "translate": "advancements.gong_ji_bing_qu_nai.title"
+    },
+    "description": {
+      "translate": "advancements.gong_ji_bing_qu_nai.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gong_ji_bing_qu_nai": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 6
+  },
+  "parent": "wwworld:tuboshujiajiao"
+}

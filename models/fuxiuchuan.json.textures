@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "diaolingcaofangkuai1",
+        "missing": "diaolingcaofangkuai3"
+      },
+      "name": "default"
+    }
+  }
+}

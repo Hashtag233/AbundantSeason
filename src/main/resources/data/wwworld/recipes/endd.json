@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwworld:chunjibaoshi"
+    },
+    {
+      "item": "wwworld:dongjibaoshi"
+    },
+    {
+      "item": "wwworld:xiajibaoshi"
+    },
+    {
+      "item": "wwworld:qiujibaoshi"
+    }
+  ],
+  "result": {
+    "item": "wwworld:fuxiuweidu",
+    "count": 1
+  }
+}

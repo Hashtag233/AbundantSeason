@@ -1,0 +1,12 @@
+{
+"book_texture":"patchouli:textures/gui/book_purple.png",
+
+"sortnum": 4,
+
+"name": "法器",
+
+"description": "在这里你将可以得知所有法器的信息！",
+
+"icon": "wwworld:leimingzhiyu"
+
+}

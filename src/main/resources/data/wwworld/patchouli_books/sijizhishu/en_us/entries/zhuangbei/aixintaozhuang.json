@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 1,
+    "name": "爱心套装",
+    "icon": "wwworld:aixin_chestplate",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:aixin_helmet,wwworld:aixin_chestplate,wwworld:aixin_leggings,wwworld:aixin_boots",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔——>靴子):221 255 272 187$(br2)附魔能力:10"
+      },
+      {
+        "type": "text",
+        "text": "特点:整套穿上后会有2级生命恢复效果$(br2)材料获取小提示:爱心锭可以通过在春季群系—繁茂异林的地下挖取爱心矿石并烧制获得"
+      }
+        
+        
+      
+    ]
+  }

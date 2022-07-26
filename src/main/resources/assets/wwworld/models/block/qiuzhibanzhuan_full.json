@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "wwworld:blocks/qiuzhimuban",
+    "top": "wwworld:blocks/qiuzhimuban",
+    "side": "wwworld:blocks/qiuzhimuban"
+  }
+}

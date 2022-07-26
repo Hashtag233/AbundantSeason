@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "wwworld:bingshuangzhikuai"
+    },
+    "4": {
+      "item": "wwworld:bingshuangmugun"
+    },
+    "6": {
+      "item": "wwworld:bingshuangmugun"
+    }
+  },
+  "result": {
+    "item": "wwworld:bingshuangfazhang",
+    "count": 1
+  }
+}

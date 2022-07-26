@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:huiyankuai"
+    },
+    "3": {
+      "item": "wwworld:huiyankuai"
+    },
+    "4": {
+      "item": "wwworld:huiyankuai"
+    },
+    "6": {
+      "item": "wwworld:huiyankuai"
+    },
+    "7": {
+      "item": "wwworld:huiyankuai"
+    },
+    "8": {
+      "item": "wwworld:huiyankuai"
+    }
+  },
+  "result": {
+    "item": "wwworld:huiyanlouti",
+    "count": 4
+  }
+}

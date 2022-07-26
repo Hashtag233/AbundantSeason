@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yingzhimuban"
+    },
+    "1": {
+      "item": "wwworld:yingzhimuban"
+    },
+    "2": {
+      "item": "wwworld:yingzhimuban"
+    },
+    "3": {
+      "item": "wwworld:yingzhimuban"
+    },
+    "4": {
+      "item": "wwworld:yingzhimuban"
+    },
+    "5": {
+      "item": "wwworld:yingzhimuban"
+    }
+  },
+  "result": {
+    "item": "wwworld:yingzhihuobanmen",
+    "count": 2
+  }
+}

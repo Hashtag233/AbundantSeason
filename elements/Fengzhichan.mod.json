@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "fengzhichan",
+    "customModelName": "Normal",
+    "name": "Wind Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Wuqi"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 4,
+    "efficiency": 13.0,
+    "attackSpeed": 1.0,
+    "enchantability": 0,
+    "damageVsEntity": 4.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

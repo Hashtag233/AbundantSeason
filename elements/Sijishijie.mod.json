@@ -1,0 +1,63 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Chunji"
+      },
+      {
+        "value": "CUSTOM:Dongji"
+      },
+      {
+        "value": "CUSTOM:Dongjitiankong"
+      },
+      {
+        "value": "CUSTOM:Qiujiqunxi"
+      },
+      {
+        "value": "CUSTOM:Xiaji"
+      },
+      {
+        "value": "CUSTOM:Yinghuayuanqunxi"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Jishi"
+    },
+    "fluidBlock": {
+      "value": "Blocks.WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "SijishijiePlayerEntersDimension"
+    },
+    "onPlayerLeavesDimension": {
+      "name": "SijishijiePlayerLeavesDimension"
+    },
+    "portalFrame": {
+      "value": ""
+    },
+    "portalParticles": {
+      "value": "VILLAGER_HAPPY"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Sijishijie Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:Yuanjingwupin"
+    },
+    "texture": "",
+    "portalTexture": "chunxiaqiudong",
+    "enablePortal": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 9,
+    "name": "奶剑",
+    "icon": "wwworld:regeneration_sword",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:regeneration_sword",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:0$(br2)耐久:500$(br2)是否防火:否"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:当饱和度大于3.6时消耗3.6饱和度，回复目标3生命值(所以实际上是给目标增加了2生命值)$(br2)材料获取小提示:云奶锭可以通过找到在冬季群系—寒潮林100格高以上的高度找到云锅怪，拿炼药锅右键他可以给他头上安个锅，保证他一直在100格高以上，等到锅装满奶后用桶装出并与爱心锭合成即可"
+      }
+    ]
+  }

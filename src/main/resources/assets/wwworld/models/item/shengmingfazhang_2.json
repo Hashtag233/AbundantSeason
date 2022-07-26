@@ -1,0 +1,10 @@
+{
+  "parent": "wwworld:custom/ai_xin_fa_zhang_",
+  "textures": {
+    "0": "wwworld:blocks/aixin1",
+    "1": "wwworld:blocks/aixin2",
+    "2": "wwworld:blocks/aixin4",
+    "3": "wwworld:blocks/all2",
+    "particle": "wwworld:items/aixin"
+  }
+}

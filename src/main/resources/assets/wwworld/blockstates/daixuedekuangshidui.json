@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wwworld:block/daixuedekuangshidui"
+    },
+    "facing=east": {
+      "model": "wwworld:block/daixuedekuangshidui",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wwworld:block/daixuedekuangshidui",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wwworld:block/daixuedekuangshidui",
+      "y": 270
+    }
+  }
+}

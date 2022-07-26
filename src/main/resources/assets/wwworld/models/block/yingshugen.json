@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/ying_shu_gen_",
+    "particle": "wwworld:blocks/ying_shu_gen_"
+  }
+}

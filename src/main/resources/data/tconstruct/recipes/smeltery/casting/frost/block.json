@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "wwworld:molten_frost",
+    "amount": 1296
+  },
+  "result": "wwworld:bingshuangzhikuai",
+  "cooling_time": 121
+}

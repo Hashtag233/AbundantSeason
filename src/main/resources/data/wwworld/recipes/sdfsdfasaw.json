@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yunduofangkuai"
+    },
+    "1": {
+      "item": "wwworld:yunduofangkuai"
+    },
+    "2": {
+      "item": "wwworld:yunduofangkuai"
+    },
+    "3": {
+      "item": "wwworld:fengzhiyuansu"
+    },
+    "5": {
+      "item": "wwworld:fengzhiyuansu"
+    }
+  },
+  "result": {
+    "item": "wwworld:fengzhijia_helmet",
+    "count": 1
+  }
+}

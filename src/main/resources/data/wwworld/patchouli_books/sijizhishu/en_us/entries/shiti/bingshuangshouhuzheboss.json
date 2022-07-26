@@ -1,0 +1,22 @@
+{
+    "sortnum": 18,
+    "advancement": "wwworld:jishabingshuangshouhuzheboss",
+    "name": "冰霜守护者boss",
+    "icon": "wwworld:bing_shuang_shou_hu_zhe_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:bing_shuang_shou_hu_zhe",
+        "text": "生命值:300 攻击力:8 稀有度:?$(br)掉落物:冬季宝石"
+      },
+      {
+        "type": "text",
+        "text": "类型:敌对(陆地)$(br)生成:用冬季故事纸张右键冰霜祭坛$(br2)特点:$(br)一直让4x4范围的实体拥有4级缓慢,必须只能攻击他下面的块块,他的下面都将会产生冰块$(br)技能:$(br)1.身上会产生大量雪花粒子，代表你需要快点跑了，因为3秒后你将被冻住（9x9范围11级缓慢）2.将会召唤4个冰霜裂魂攻击玩家"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

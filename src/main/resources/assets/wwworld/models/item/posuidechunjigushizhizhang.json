@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "wwworld:items/po_sui_de_chun_ji_gu_shi_zhi_pian_"
+  }
+}

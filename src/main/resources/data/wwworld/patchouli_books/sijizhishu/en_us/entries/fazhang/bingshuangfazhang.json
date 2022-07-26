@@ -1,0 +1,14 @@
+{
+    "sortnum": 1,
+    "name": "冰霜法杖",
+    "icon": "wwworld:bingshuangfazhang",
+    "category": "fazhang",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:bingshuangfazhang",
+
+      "text": "攻击伤害:3$(br2)普攻特别效果:被击中的实体将会有2级3秒缓慢效果$(br2)耐久:500$(br2)材料获取小提示:冰霜之锭可以通过在冬季群系—寒潮林90格高以上挖掘冰霜矿石并烧制获得"
+      }
+    ]
+  }

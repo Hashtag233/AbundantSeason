@@ -1,0 +1,43 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "bei_xue_jian_de_bing_zhui_",
+    "customModelName": "Normal",
+    "name": "Sharpened Ice Spike",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Wuqi"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": ""
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 4.0,
+    "onRangedItemUsed": {
+      "name": "BeixuejiandebingzhuiDangYuanChengWuPinShiYongShi"
+    },
+    "bulletPower": 3.0,
+    "bulletDamage": 1.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Zidan"
+    },
+    "bulletModel": "Modelbeixuejiandebingzhui",
+    "customBulletModelTexture": "beixuejiandebingzhui.png",
+    "onBulletHitsEntity": {
+      "name": "BeixuejiandebingzhuiDangTouZhiWuJiZhongShiTiShi"
+    }
+  }
+}

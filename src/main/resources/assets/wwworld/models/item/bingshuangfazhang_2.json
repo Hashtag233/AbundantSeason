@@ -1,0 +1,10 @@
+{
+  "parent": "wwworld:custom/bing_fa_zhang_",
+  "textures": {
+    "0": "wwworld:blocks/bing_1",
+    "1": "wwworld:blocks/bing_2",
+    "2": "wwworld:blocks/bing_3",
+    "3": "wwworld:blocks/all2",
+    "particle": "wwworld:items/bingshuangfazhang"
+  }
+}

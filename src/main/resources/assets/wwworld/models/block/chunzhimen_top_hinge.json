@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "wwworld:blocks/chun_ji_men_1",
+    "top": "wwworld:blocks/chun_ji_men_2"
+  }
+}

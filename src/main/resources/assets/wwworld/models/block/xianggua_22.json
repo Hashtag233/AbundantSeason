@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/xianggua0",
+    "particle": "wwworld:blocks/xianggua0"
+  }
+}

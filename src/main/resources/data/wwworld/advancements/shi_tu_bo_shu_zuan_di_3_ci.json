@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:qiuyin"
+    },
+    "title": {
+      "translate": "advancements.shi_tu_bo_shu_zuan_di_3_ci.title"
+    },
+    "description": {
+      "translate": "advancements.shi_tu_bo_shu_zuan_di_3_ci.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "shi_tu_bo_shu_zuan_di_3_ci": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:yu_shui_gui_hua_wan_cheng_ci_jiao_yi"
+}

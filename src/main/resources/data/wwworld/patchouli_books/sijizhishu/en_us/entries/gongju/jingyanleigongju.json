@@ -1,0 +1,20 @@
+{
+    "sortnum": 1,
+    "name": "经验类工具",
+    "icon": "wwworld:jingyangao",
+    "category": "gongju",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:jingyangao,,wwworld:jingyanfu,,wwworld:jingyanchan",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(镐子——>铲子):300(统一)$(br2)挖掘等级:1(统一)$(br2)效率:5(统一)$(br2)附魔能力:0(统一)"
+      },
+      {
+        "type": "text",
+        "text": "特点:对应它们该破坏的方块，会产生大量经验$(br2)材料获取小提示:经验锭可以通过在春季群系—繁茂异林的地下挖取经验矿石获得经验球再合成获得"
+      }
+        
+        
+      
+    ]
+  }

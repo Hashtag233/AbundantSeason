@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "wwworld:blocks/hui_yan_kuai_",
+    "top": "wwworld:blocks/hui_yan_kuai_",
+    "side": "wwworld:blocks/hui_yan_kuai_"
+  }
+}

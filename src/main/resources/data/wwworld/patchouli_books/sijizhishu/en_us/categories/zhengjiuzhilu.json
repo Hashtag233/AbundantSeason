@@ -1,0 +1,12 @@
+{
+"book_texture":"patchouli:textures/gui/book_purple.png",
+
+"sortnum": 1,
+
+"name": "拯救之路",
+
+"description": "本页面除了有事件的开始章节和指引章节外，当你找到各个故事碎纸合成各个故事纸张时，将会记录指定的故事纸张的故事",
+
+"icon": "wwworld:beisisuidezhi"
+
+}

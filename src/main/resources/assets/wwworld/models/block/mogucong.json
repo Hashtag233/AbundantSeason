@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "wwworld:blocks/mo_gu_cao_",
+    "particle": "wwworld:blocks/mo_gu_cao_"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/winter_log_top",
+    "up": "wwworld:blocks/winter_log_top",
+    "north": "wwworld:blocks/winter_log",
+    "east": "wwworld:blocks/winter_log",
+    "south": "wwworld:blocks/winter_log",
+    "west": "wwworld:blocks/winter_log",
+    "particle": "wwworld:blocks/winter_log_top"
+  }
+}

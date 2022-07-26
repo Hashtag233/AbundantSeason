@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "wwworld:qiqyumao"
+    },
+    "2": {
+      "item": "wwworld:qiqyumao"
+    },
+    "3": {
+      "item": "wwworld:qiqyumao"
+    },
+    "4": {
+      "item": "wwworld:zongseyumao"
+    },
+    "5": {
+      "item": "wwworld:qiqyumao"
+    },
+    "6": {
+      "item": "wwworld:qiqyumao"
+    },
+    "7": {
+      "item": "wwworld:qiqyumao"
+    }
+  },
+  "result": {
+    "item": "wwworld:dongzhiyumao",
+    "count": 1
+  }
+}

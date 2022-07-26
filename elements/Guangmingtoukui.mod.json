@@ -1,0 +1,65 @@
+{
+  "_fv": 24,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "guang_head",
+    "enableBody": true,
+    "textureBody": "guang_body",
+    "enableLeggings": false,
+    "textureLeggings": "aiixnzhijia_leggings",
+    "enableBoots": false,
+    "textureBoots": "aiixnzhijia_boots",
+    "onHelmetTick": {
+      "name": "Guangmingjia"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Wuqi"
+    },
+    "armorTextureFile": "guang",
+    "helmetName": "Light Helmet",
+    "bodyName": "Light Chestplate",
+    "leggingsName": "",
+    "bootsName": "",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 15,
+    "damageValueHelmet": 4,
+    "damageValueBody": 7,
+    "damageValueLeggings": 0,
+    "damageValueBoots": 0,
+    "enchantability": 8,
+    "toughness": 1.5,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Guangyuansu"
+      }
+    ]
+  }
+}

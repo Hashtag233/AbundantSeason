@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:fengzhiyuansu"
+    },
+    "title": {
+      "translate": "advancements.jisha_10zhilongjuanfeng.title"
+    },
+    "description": {
+      "translate": "advancements.jisha_10zhilongjuanfeng.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jisha_10zhilongjuanfeng": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:gong_ji_bing_qu_nai"
+}

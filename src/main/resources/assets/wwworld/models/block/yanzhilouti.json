@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "wwworld:blocks/fire_log_top",
+    "top": "wwworld:blocks/fire_log_top",
+    "side": "wwworld:blocks/fire_log_top"
+  }
+}

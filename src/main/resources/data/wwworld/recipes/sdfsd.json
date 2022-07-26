@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:mtou"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "wwworld:mtou"
+    },
+    "3": {
+      "item": "wwworld:mtou"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "wwworld:mtou"
+    }
+  },
+  "result": {
+    "item": "wwworld:chunzhizhalan",
+    "count": 3
+  }
+}

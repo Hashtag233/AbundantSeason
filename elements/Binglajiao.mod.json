@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "bing_la_jiao_",
+    "customModelName": "Normal",
+    "name": "Frozen Pepper",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 3,
+    "saturation": 4.0,
+    "eatingSpeed": 20,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "BinglajiaoDangYouJianDianJiFangKuaiShi"
+    },
+    "onEaten": {
+      "name": "BinglajiaoDangShiWuBeiChiShi"
+    }
+  }
+}

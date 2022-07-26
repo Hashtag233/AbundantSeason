@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:jingcicong"
+    },
+    "title": {
+      "translate": "advancements.jishatengwannvwangboss.title"
+    },
+    "description": {
+      "translate": "advancements.jishatengwannvwangboss.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jishatengwannvwangboss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:huodechunjigushizhizhang"
+}

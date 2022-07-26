@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yingguangding"
+    },
+    "1": {
+      "item": "wwworld:yingguangding"
+    },
+    "2": {
+      "item": "wwworld:yingguangding"
+    },
+    "3": {
+      "item": "wwworld:yingguangding"
+    },
+    "5": {
+      "item": "wwworld:yingguangding"
+    }
+  },
+  "result": {
+    "item": "wwworld:lingguangkuijia_helmet",
+    "count": 1
+  }
+}

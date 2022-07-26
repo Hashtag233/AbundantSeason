@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wwworld:block/aixinzhikuai"
+    },
+    "facing=east": {
+      "model": "wwworld:block/aixinzhikuai",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wwworld:block/aixinzhikuai",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wwworld:block/aixinzhikuai",
+      "y": 270
+    }
+  }
+}

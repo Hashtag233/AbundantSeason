@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:qiuzhimuban"
+    },
+    "3": {
+      "item": "wwworld:qiuzhimuban"
+    },
+    "4": {
+      "item": "wwworld:qiuzhimuban"
+    },
+    "6": {
+      "item": "wwworld:qiuzhimuban"
+    },
+    "7": {
+      "item": "wwworld:qiuzhimuban"
+    },
+    "8": {
+      "item": "wwworld:qiuzhimuban"
+    }
+  },
+  "result": {
+    "item": "wwworld:qiuzhilouti",
+    "count": 4
+  }
+}

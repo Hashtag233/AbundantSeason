@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:mi"
+    },
+    "1": {
+      "item": "wwworld:mi"
+    },
+    "2": {
+      "item": "wwworld:mi"
+    },
+    "3": {
+      "item": "wwworld:mi"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    },
+    "5": {
+      "item": "wwworld:mi"
+    },
+    "6": {
+      "item": "wwworld:mi"
+    },
+    "7": {
+      "item": "wwworld:mi"
+    },
+    "8": {
+      "item": "wwworld:mi"
+    }
+  },
+  "result": {
+    "item": "wwworld:mifan",
+    "count": 1
+  }
+}

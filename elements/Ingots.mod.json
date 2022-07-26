@@ -1,0 +1,35 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Aixinzhiding"
+      },
+      {
+        "value": "CUSTOM:Bingshuangzhiding"
+      },
+      {
+        "value": "CUSTOM:Fengzhiding"
+      },
+      {
+        "value": "CUSTOM:Jingyanding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yunnaiding"
+      },
+      {
+        "value": "CUSTOM:Heianzhiding"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "ingots",
+    "namespace": "forge"
+  }
+}

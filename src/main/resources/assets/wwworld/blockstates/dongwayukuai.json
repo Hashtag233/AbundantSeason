@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wwworld:block/dongwayukuai"
+    },
+    "facing=east": {
+      "model": "wwworld:block/dongwayukuai",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "wwworld:block/dongwayukuai",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "wwworld:block/dongwayukuai",
+      "y": 270
+    }
+  }
+}

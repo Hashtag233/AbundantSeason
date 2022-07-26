@@ -1,0 +1,8 @@
+{
+  "parent": "wwworld:custom/huo_yan_ji_tan_",
+  "textures": {
+    "all": "wwworld:blocks/huoyanjitan",
+    "particle": "wwworld:blocks/huoyanjitan",
+    "0": "wwworld:blocks/huoyanjitan"
+  }
+}

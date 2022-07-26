@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwworld:cuaixinkuang"
+    }
+  ],
+  "result": {
+    "item": "wwworld:cuaixinshi",
+    "count": 9
+  }
+}

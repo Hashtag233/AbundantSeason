@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/e7b81434fcf1b2ae9946e867493eb768",
+    "particle": "wwworld:blocks/e7b81434fcf1b2ae9946e867493eb768"
+  }
+}

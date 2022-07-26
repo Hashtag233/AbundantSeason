@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:fengli"
+    },
+    "1": {
+      "item": "wwworld:fengli"
+    },
+    "2": {
+      "item": "wwworld:fengli"
+    },
+    "3": {
+      "item": "wwworld:fengli"
+    },
+    "4": {
+      "item": "wwworld:fengli"
+    },
+    "5": {
+      "item": "wwworld:fengli"
+    },
+    "6": {
+      "item": "wwworld:fengli"
+    },
+    "7": {
+      "item": "wwworld:fengli"
+    },
+    "8": {
+      "item": "wwworld:fengli"
+    }
+  },
+  "result": {
+    "item": "wwworld:fengzhiding",
+    "count": 1
+  }
+}

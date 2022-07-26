@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "wwworld:blocks/hui_yan_kuai_",
+    "particle": "wwworld:blocks/hui_yan_kuai_"
+  }
+}

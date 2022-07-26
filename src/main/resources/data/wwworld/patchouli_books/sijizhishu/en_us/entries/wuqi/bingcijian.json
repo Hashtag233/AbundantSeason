@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 2,
+    "name": "冰刺剑",
+    "icon": "wwworld:bingjian",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:bingjian",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:8$(br2)耐久:500$(br2)是否防火:否"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:15％概率使目标获得2秒10级缓慢$(br2)技能(右键):进行冲刺攻击，被冲刺刺到的的实体将获得20伤害+6级3秒缓慢（冷却20秒）$(br2)材料获取小提示:冰霜锭可以在冬季群系—寒潮林90格高以上找到或者是在寒冰矿洞中找到，挖取冰霜矿石冰烧制获得"
+      }
+    ]
+  }

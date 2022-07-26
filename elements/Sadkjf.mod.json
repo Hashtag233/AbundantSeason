@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      },
+      {
+        "value": "CUSTOM:Yingguangding"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Zhenhunfangkuai"
+    },
+    "name": "sadkjf",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "wwworld:blocks/yanzhimuban",
+    "top": "wwworld:blocks/yanzhimuban",
+    "side": "wwworld:blocks/yanzhimuban"
+  }
+}

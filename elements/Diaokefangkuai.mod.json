@@ -1,0 +1,56 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Jishi"
+      },
+      {
+        "value": "CUSTOM:Sijijinkuangshi"
+      },
+      {
+        "value": "CUSTOM:Sijimeikuangshi"
+      },
+      {
+        "value": "CUSTOM:Sijitiekuangshi"
+      },
+      {
+        "value": "CUSTOM:Sijizuanshikuangshi"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.FLOWING_WATER"
+      },
+      {
+        "value": "Blocks.WATER"
+      },
+      {
+        "value": "Blocks.FLOWING_LAVA"
+      },
+      {
+        "value": "Blocks.LAVA"
+      },
+      {
+        "value": "CUSTOM:Bingshuangkuangshi"
+      },
+      {
+        "value": "CUSTOM:Jingyankuangshi"
+      },
+      {
+        "value": "CUSTOM:Shengmingkuangshi"
+      },
+      {
+        "value": "CUSTOM:Zhiyezhikuang"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "diaokefangkuai",
+    "namespace": "mod"
+  }
+}

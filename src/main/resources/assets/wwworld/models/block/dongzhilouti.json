@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "wwworld:blocks/winter_planks",
+    "top": "wwworld:blocks/winter_planks",
+    "side": "wwworld:blocks/winter_planks"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Spring Biome - Lush Woods",
+    "groundBlock": {
+      "value": "CUSTOM:Caofangkuai"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Nitu"
+    },
+    "airColor": {
+      "value": -3211849,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -10027213,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -6684775,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -6684724,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -13382401,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:chun"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 240,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.0,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.8,
+    "temperature": 0.7,
+    "baseHeight": 0.0,
+    "heightVariation": 0.1,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 5,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 25,
+    "flowersPerChunk": 5,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 10,
+    "gravelPatchesPerChunk": 10,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 0,
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Structures",
+      "Ores",
+      "FrozenTopLayer",
+      "Lakes",
+      "TallSeagrassLush"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityBee"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityCod"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 200,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "EntitySalmon"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 200,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Juduciwei"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Yezhu"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 9,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Shuiguihua"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 8,
+        "spawnType": "waterCreature"
+      }
+    ]
+  }
+}

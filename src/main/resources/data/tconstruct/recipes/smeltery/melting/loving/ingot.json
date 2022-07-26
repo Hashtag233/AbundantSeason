@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "wwworld:aixinzhiding"
+  },
+  "result": {
+    "fluid": "wwworld:molten_loving",
+    "amount": 144
+  },
+  "temperature": 500,
+  "time": 61
+}

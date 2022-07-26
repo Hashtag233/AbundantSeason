@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 1,
+    "name": "爱心之剑",
+    "icon": "wwworld:aixinzhijian",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:aixinzhijian",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:13$(br2)耐久:500$(br2)是否防火:否"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:28％概率生命值+2$(br2)材料获取小提示:爱心锭可以通过在春季群系—繁茂异林地下挖取爱心矿石，并烧制即可"
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 9,
+    "name": "浅海花圈",
+    "icon": "wwworld:qian_hai_hua_quan_helmet",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:qian_hai_hua_quan_helmet",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔):104$(br2)附魔能力:7"
+      },
+      {
+        "type": "text",
+        "text": "特点:戴上后当自己在水中时将会获得水下呼吸和挖掘速度提升效果$(br2)材料获取小提示:浅海花瓣可以通过在四季维度各个群系的湖中找到水鬼花(生物)，自身戴上发光头盔并主手拿着发光元素右键水鬼花第一形态(没发光的样子)，他就会脱落一片浅海花瓣，同时你将减少一个发光元素作为交易"
+      }
+        
+        
+      
+    ]
+  }

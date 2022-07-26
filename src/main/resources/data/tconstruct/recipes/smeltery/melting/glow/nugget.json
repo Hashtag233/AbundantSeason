@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "wwworld:yingguangyuansu"
+  },
+  "result": {
+    "fluid": "wwworld:liquid_glow",
+    "amount": 16
+  },
+  "temperature": 120,
+  "time": 11
+}

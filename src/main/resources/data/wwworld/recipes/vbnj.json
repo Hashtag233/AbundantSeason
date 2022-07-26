@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:abab"
+    },
+    "1": {
+      "item": "wwworld:abab"
+    },
+    "2": {
+      "item": "wwworld:abab"
+    },
+    "3": {
+      "item": "wwworld:abab"
+    },
+    "4": {
+      "item": "wwworld:abab"
+    },
+    "5": {
+      "item": "wwworld:abab"
+    },
+    "6": {
+      "item": "wwworld:abab"
+    },
+    "7": {
+      "item": "wwworld:abab"
+    },
+    "8": {
+      "item": "wwworld:abab"
+    }
+  },
+  "result": {
+    "item": "wwworld:xiajimoti",
+    "count": 1
+  }
+}

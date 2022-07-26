@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/sui_shi_po_lie_de_hui_yan_kuai_",
+    "particle": "wwworld:blocks/sui_shi_po_lie_de_hui_yan_kuai_"
+  }
+}

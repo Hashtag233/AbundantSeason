@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:mifan"
+    },
+    "title": {
+      "translate": "advancements.eat_rice.title"
+    },
+    "description": {
+      "translate": "advancements.eat_rice.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "eat_rice": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:enter_fallen_sky"
+}

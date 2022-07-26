@@ -1,0 +1,7 @@
+{
+  "parent": "wwworld:custom/chuizi",
+  "textures": {
+    "0": "wwworld:blocks/5",
+    "particle": "wwworld:items/chuizi"
+  }
+}

@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Creative Commons Attribution-NonCommercial-NoDerivs 3.0"
+
+[[mods]]
+modId="wwworld"
+version="1.0.4"
+displayName="Abundant Season"
+credits="Xiao_Han_Long, Ender_Ruier, Hashtag233, Wei_Duo_Tai_Ke_Li_Li, Mega32k, Yi_Zhi_Dai_Dai_Lang, Jww"
+displayURL="https://www.mcmod.cn/class/3776.html"
+updateJSONURL="https://gitee.com/abundant-season/abundant-season/raw/master/update.json"
+logoFile="logo.png"
+authors="Xiao_Han_Long, Ender_Ruier, Hashtag233, Wei_Duo_Tai_Ke_Li_Li, Mega32k, Yi_Zhi_Dai_Dai_Lang, Jww, MCreator"
+description='''
+New story chapters, new adventurer's legends. 
+'''
+
+[[dependencies.wwworld]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

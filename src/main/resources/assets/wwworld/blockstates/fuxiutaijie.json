@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wwworld:block/fuxiutaijie"
+    },
+    "type=top": {
+      "model": "wwworld:block/fuxiutaijie_top"
+    },
+    "type=double": {
+      "model": "wwworld:block/fuxiutaijie_full"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wwworld:items/lei_ming_zhi_jian_"
+  }
+}

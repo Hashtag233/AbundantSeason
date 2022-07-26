@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/qiuzhimuban",
+    "up": "wwworld:blocks/qiuzhimuban",
+    "north": "wwworld:blocks/qiuzhimuban",
+    "east": "wwworld:blocks/qiuzhimuban",
+    "south": "wwworld:blocks/qiuzhimuban",
+    "west": "wwworld:blocks/qiuzhimuban",
+    "particle": "wwworld:blocks/qiuzhimuban"
+  }
+}

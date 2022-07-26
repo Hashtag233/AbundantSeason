@@ -1,0 +1,10 @@
+{
+  "parent": "wwworld:custom/lei_fa_zhang_",
+  "textures": {
+    "0": "wwworld:blocks/leiming1",
+    "1": "wwworld:blocks/leiming2",
+    "2": "wwworld:blocks/leiming3",
+    "3": "wwworld:blocks/all2",
+    "particle": "wwworld:items/leitingfazhang5"
+  }
+}

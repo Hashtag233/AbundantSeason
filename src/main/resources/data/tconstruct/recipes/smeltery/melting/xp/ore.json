@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "item": "wwworld:jingyankuangshi"
+  },
+  "result": {
+    "fluid": "wwworld:liquid_xp",
+    "amount": 48
+  },
+  "temperature": 120,
+  "time": 46,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:molten_clay",
+      "amount": 144
+    }
+  ]
+}

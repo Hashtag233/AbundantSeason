@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "wwworld:wuyunsuipian"
+    },
+    "3": {
+      "item": "wwworld:wuyunsuipian"
+    },
+    "4": {
+      "item": "wwworld:wuyunsuipian"
+    },
+    "5": {
+      "item": "wwworld:wuyunsuipian"
+    },
+    "7": {
+      "item": "wwworld:wuyunsuipian"
+    }
+  },
+  "result": {
+    "item": "wwworld:wuyunbaoshi",
+    "count": 1
+  }
+}

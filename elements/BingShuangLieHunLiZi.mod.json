@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "particle",
+  "definition": {
+    "texture": "xuehua.png",
+    "animate": true,
+    "frameDuration": 1,
+    "width": 0.3,
+    "height": 0.3,
+    "scale": 2.0,
+    "speedFactor": 1.0,
+    "gravity": 4.0,
+    "maxAge": 1,
+    "maxAgeDiff": 1,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": false,
+    "alwaysShow": false,
+    "renderType": "LIT"
+  }
+}

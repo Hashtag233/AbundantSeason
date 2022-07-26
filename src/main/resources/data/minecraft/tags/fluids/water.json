@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "wwworld:molten_frost",
+    "wwworld:molten_frost_flowing",
+    "wwworld:liquid_glow",
+    "wwworld:liquid_glow_flowing",
+    "wwworld:liquid_xp",
+    "wwworld:liquid_xp_flowing",
+    "wwworld:molten_loving",
+    "wwworld:molten_loving_flowing",
+    "wwworld:molten_wind",
+    "wwworld:molten_wind_flowing",
+    "wwworld:diaolingjianghutong",
+    "wwworld:diaolingjianghutong_flowing"
+  ]
+}

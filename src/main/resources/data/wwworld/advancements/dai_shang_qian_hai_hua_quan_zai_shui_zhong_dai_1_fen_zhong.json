@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:qian_hai_hua_quan_helmet"
+    },
+    "title": {
+      "translate": "advancements.dai_shang_qian_hai_hua_quan_zai_shui_zhong_dai_1_fen_zhong.title"
+    },
+    "description": {
+      "translate": "advancements.dai_shang_qian_hai_hua_quan_zai_shui_zhong_dai_1_fen_zhong.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dai_shang_qian_hai_hua_quan_zai_shui_zhong_dai_1_fen_zhong": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:yu_shui_gui_hua_wan_cheng_ci_jiao_yi"
+}

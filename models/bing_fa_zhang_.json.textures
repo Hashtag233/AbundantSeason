@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bing_1",
+        "1": "bing_2",
+        "2": "bing_3",
+        "3": "all2"
+      },
+      "name": "default"
+    }
+  }
+}

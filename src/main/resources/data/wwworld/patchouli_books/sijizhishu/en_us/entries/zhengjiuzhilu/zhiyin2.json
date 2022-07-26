@@ -1,0 +1,12 @@
+{
+    "sortnum":3,
+    "name": "指引2",
+    "icon": "wwworld:sijizhishu",
+    "category": "zhengjiuzhilu",
+    "pages": [
+      {
+      "type": "text",
+      "text": "某些东西的“合成台”不是熔炉或工作台，而是四季锻造台，它生成在四季维度中的四季钟塔里，而是腐朽维度阶段里的灵魂锻造台，用腐朽维度中的木头合成，谁知道呢？"
+      }
+    ]
+}

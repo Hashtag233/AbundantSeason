@@ -1,0 +1,144 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Autumn Biome - Windy Woods",
+    "groundBlock": {
+      "value": "CUSTOM:Qiuzhicaofangkuai"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Nitu"
+    },
+    "airColor": {
+      "value": -208460,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -39424,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -26317,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -39424,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -39424,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:qiu"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 1,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:Luoye"
+    },
+    "particlesProbability": 0.30000000000000004,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.0,
+    "temperature": 0.4,
+    "baseHeight": 0.0,
+    "heightVariation": 0.2,
+    "biomeType": "COOL",
+    "spawnBiome": false,
+    "biomeWeight": 3,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 12,
+    "seagrassPerChunk": 20,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 15,
+    "gravelPatchesPerChunk": 15,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 0,
+    "treeStem": {
+      "value": "Blocks.AIR"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Ores",
+      "Caves",
+      "Lakes",
+      "FrozenTopLayer",
+      "TallSeagrassLush"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityCod"
+        },
+        "minGroup": 2,
+        "maxGroup": 5,
+        "weight": 300,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "EntitySalmon"
+        },
+        "minGroup": 2,
+        "maxGroup": 5,
+        "weight": 300,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Jijingxiao"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 14,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

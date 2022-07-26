@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:xiajizhiping"
+    },
+    "title": {
+      "translate": "advancements.enter_summer.title"
+    },
+    "description": {
+      "translate": "advancements.enter_summer.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "enter_summer": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "wwworld:xiajiweidu"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 6
+  },
+  "parent": "wwworld:enter_seasons"
+}

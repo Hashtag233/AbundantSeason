@@ -1,0 +1,13 @@
+{
+    "sortnum":7,
+    "advancement": "wwworld:enter_summer",
+    "name": "夏季群系—火山地带",
+    "icon": "wwworld:zhiyeyan",
+    "category": "shoupisijimaoxianjiagushi",
+    "pages": [
+      {
+        "type": "text",
+        "text": "未写（首批冒险家在此遇难）"
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "wwworld:bingshuangbaoshi"
+  },
+  "result": {
+    "fluid": "wwworld:molten_frost",
+    "amount": 720
+  },
+  "temperature": 400,
+  "time": 59
+}

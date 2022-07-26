@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:lizhishifood"
+    },
+    "title": {
+      "translate": "advancements.chi_li_zhi_chi_dao_chong_zi.title"
+    },
+    "description": {
+      "translate": "advancements.chi_li_zhi_chi_dao_chong_zi.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "chi_li_zhi_chi_dao_chong_zi": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:huo_de_1_ba_tie_chui"
+}

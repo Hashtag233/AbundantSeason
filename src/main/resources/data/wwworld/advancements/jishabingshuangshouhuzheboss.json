@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:bingxuezhihua"
+    },
+    "title": {
+      "translate": "advancements.jishabingshuangshouhuzheboss.title"
+    },
+    "description": {
+      "translate": "advancements.jishabingshuangshouhuzheboss.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jishabingshuangshouhuzheboss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:huo_de_dong_ji_gu_shi_zhi_zhang"
+}

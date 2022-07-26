@@ -1,0 +1,21 @@
+{
+    "sortnum": 7,
+    "advancement": "wwworld:enter_summer",
+    "name": "炙热行者",
+    "icon": "wwworld:zhirexingzhe_boots",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:zhirexingzhe_boots",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔):165$(br2)附魔能力:11"
+      },
+      {
+        "type": "text",
+        "text": "特点:如同冰霜行者在水中一样，把水变成冰，让你在水中流畅行走，但这个是可以让你在岩浆中欢快地行走，但是你将会在上面一直有燃烧效果（所以建议佩戴火焰花圈配合使用）$(br2)材料获取小提示:炙热之石可以通过在夏季群系—火山地带的地表或地下找到炙热矿石挖取即可获得炙热之粒，再合成即可"
+      }
+        
+        
+      
+    ]
+  }

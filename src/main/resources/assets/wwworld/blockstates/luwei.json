@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "wwworld:block/luwei"
+    },
+    "half=lower": {
+      "model": "wwworld:block/luwei_bottom"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:daixuedekuangshidui"
+    },
+    "title": {
+      "translate": "advancements.wa_10_ci_dai_xue_de_kuang_shi_dui.title"
+    },
+    "description": {
+      "translate": "advancements.wa_10_ci_dai_xue_de_kuang_shi_dui.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wa_10_ci_dai_xue_de_kuang_shi_dui": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:cai_sui_40_ge_cui_bing"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "wwworld:custom/kuang_lei_ji_tan_",
+  "textures": {
+    "all": "wwworld:blocks/kuangleijitan",
+    "particle": "wwworld:blocks/kuangleijitan",
+    "0": "wwworld:blocks/kuangleijitan"
+  }
+}

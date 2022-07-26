@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/wither_log_top",
+    "up": "wwworld:blocks/wither_log_top",
+    "north": "wwworld:blocks/wither_log",
+    "east": "wwworld:blocks/wither_log",
+    "south": "wwworld:blocks/wither_log",
+    "west": "wwworld:blocks/wither_log",
+    "particle": "wwworld:blocks/wither_log_top"
+  }
+}

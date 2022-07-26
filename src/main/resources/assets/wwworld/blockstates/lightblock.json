@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wwworld:block/lightblock"
+    },
+    "type=top": {
+      "model": "wwworld:block/lightblock_top"
+    },
+    "type=double": {
+      "model": "wwworld:block/lightblock_full"
+    }
+  }
+}

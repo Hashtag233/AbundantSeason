@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:guangmingtoukui_chestplate"
+    },
+    "title": {
+      "translate": "advancements.wear_light_chestplate.title"
+    },
+    "description": {
+      "translate": "advancements.wear_light_chestplate.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wear_light_chestplate": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 6
+  },
+  "parent": "wwworld:wear_toxic_chestplate"
+}

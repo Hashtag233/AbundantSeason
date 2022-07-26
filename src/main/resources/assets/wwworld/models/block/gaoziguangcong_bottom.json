@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/zi_guang_cong_da_2",
+    "particle": "wwworld:blocks/zi_guang_cong_da_2"
+  }
+}

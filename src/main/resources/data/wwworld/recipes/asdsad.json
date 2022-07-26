@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:mtou"
+    },
+    "3": {
+      "item": "wwworld:mtou"
+    },
+    "4": {
+      "item": "wwworld:mtou"
+    },
+    "6": {
+      "item": "wwworld:mtou"
+    },
+    "7": {
+      "item": "wwworld:mtou"
+    },
+    "8": {
+      "item": "wwworld:mtou"
+    }
+  },
+  "result": {
+    "item": "wwworld:chunzhilouti",
+    "count": 4
+  }
+}

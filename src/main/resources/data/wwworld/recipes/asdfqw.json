@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "wwworld:dongxueyu"
+  },
+  "result": {
+    "item": "minecraft:cooked_cod"
+  }
+}

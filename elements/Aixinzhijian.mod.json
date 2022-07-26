@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ai_xin_jian_",
+    "customModelName": "Normal",
+    "name": "Loving Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Wuqi"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.6,
+    "enchantability": 13,
+    "damageVsEntity": 3.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Aixinzhiding"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "AixinzhijianDangShiTiBeiGongJuJiZhongShi"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "sortnum": 6,
+    "advancement": "wwworld:enter_summer",
+    "name": "火焰花圈",
+    "icon": "wwworld:huoyanhuaquan_helmet",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:huoyanhuaquan_helmet",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔):156$(br2)附魔能力:9"
+      },
+      {
+        "type": "text",
+        "text": "特点:戴上后自身会有2级防火效果(建议配合炙热行者使用)$(br2)材料获取小提示:火焰花瓣可以通过在夏季群系—火山地带破坏火焰花获得，炙热之石可以通过在夏季群系—火山地带的地表或地下找到炙热矿石挖取即可获得炙热之粒，再合成即可"
+      }
+        
+        
+      
+    ]
+  }

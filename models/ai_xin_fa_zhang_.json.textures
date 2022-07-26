@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "aixin1",
+        "1": "aixin2",
+        "2": "aixin4",
+        "3": "all2"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "daixued",
+        "1": "dong_ji_cao_fang_kuai_"
+      },
+      "name": "default"
+    }
+  }
+}

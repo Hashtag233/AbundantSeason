@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/sui_bing_2",
+    "particle": "wwworld:blocks/sui_bing_2"
+  }
+}

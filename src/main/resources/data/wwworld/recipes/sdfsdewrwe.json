@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:faguangmogu"
+    },
+    "1": {
+      "item": "wwworld:faguangmogu"
+    },
+    "2": {
+      "item": "wwworld:faguangmogu"
+    },
+    "3": {
+      "item": "wwworld:faguangmogu"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    },
+    "5": {
+      "item": "wwworld:faguangmogu"
+    },
+    "6": {
+      "item": "wwworld:faguangmogu"
+    },
+    "7": {
+      "item": "wwworld:faguangmogu"
+    },
+    "8": {
+      "item": "wwworld:faguangmogu"
+    }
+  },
+  "result": {
+    "item": "wwworld:yingguangmogutang",
+    "count": 1
+  }
+}

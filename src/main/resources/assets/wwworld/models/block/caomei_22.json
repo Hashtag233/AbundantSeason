@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/caomei3",
+    "particle": "wwworld:blocks/caomei3"
+  }
+}

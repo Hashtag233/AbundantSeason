@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "wwworld:block/huahua"
+    },
+    "half=lower": {
+      "model": "wwworld:block/huahua_bottom"
+    }
+  }
+}

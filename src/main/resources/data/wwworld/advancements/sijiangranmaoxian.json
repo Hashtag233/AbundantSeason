@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "wwworld:textures/sijizhishi2.png",
+    "icon": {
+      "item": "wwworld:hongbaoshi"
+    },
+    "title": {
+      "translate": "advancements.sijiangranmaoxian.title"
+    },
+    "description": {
+      "translate": "advancements.sijiangranmaoxian.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sijiangranmaoxian": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yanzhimuban"
+    },
+    "3": {
+      "item": "wwworld:yanzhimuban"
+    },
+    "4": {
+      "item": "wwworld:yanzhimuban"
+    },
+    "6": {
+      "item": "wwworld:yanzhimuban"
+    },
+    "7": {
+      "item": "wwworld:yanzhimuban"
+    },
+    "8": {
+      "item": "wwworld:yanzhimuban"
+    }
+  },
+  "result": {
+    "item": "wwworld:yanzhilouti",
+    "count": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "item": "wwworld:cuaixinshi"
+  },
+  "result": {
+    "fluid": "wwworld:molten_loving",
+    "amount": 144
+  },
+  "temperature": 500,
+  "time": 61,
+  "byproducts": [
+    {
+      "fluid": "tconstruct:blood",
+      "amount": 16
+    }
+  ]
+}

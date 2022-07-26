@@ -1,0 +1,28 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wwworld:items/bing_ci_jian_"
+  },
+    "display": {
+      "firstperson_righthand": {
+      "rotation": [-150, -90, -120],
+      "translation": [1.2, -0.7, 1],
+      "scale": [1.5, 1.5, 1.5]
+    },
+      "firstperson_lefthand": {
+      "rotation": [85, 90, -120],
+      "translation": [1.2, -0.7, 1],
+      "scale": [1.5, 1.5, 1.5]
+    },
+      "thirdperson_righthand": {
+      "rotation": [-150, -90, -120],
+      "translation": [0, 15, 6],
+      "scale": [2, 2, 2]
+    },
+      "thirdperson_lefthand": {
+      "rotation": [85, 90, -120],
+      "translation": [0, 15, 5],
+      "scale": [2, 2, 2]
+    }
+  }
+}

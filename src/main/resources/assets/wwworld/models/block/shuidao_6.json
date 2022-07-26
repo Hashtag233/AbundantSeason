@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/shui_dao__-_fu_ben_",
+    "particle": "wwworld:blocks/shui_dao__-_fu_ben_"
+  }
+}

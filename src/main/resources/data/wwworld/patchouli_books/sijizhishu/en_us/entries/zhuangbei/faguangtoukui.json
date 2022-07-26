@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 8,
+    "name": "发光头盔",
+    "icon": "wwworld:lingguangkuijia_helmet",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:lingguangkuijia_helmet",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔):156$(br2)附魔能力:6"
+      },
+      {
+        "type": "text",
+        "text": "特点:戴上后将会使40x40x40范围内的实体一直拥有5秒发光效果$(br2)材料获取小提示:发光元素可以通过在春季群系—繁茂异林中找到萤火虫巨树，打死刷新出来的萤火虫会掉落1个，有70％概率掉落2个，有40％概率掉落3个"
+      }
+        
+        
+      
+    ]
+  }

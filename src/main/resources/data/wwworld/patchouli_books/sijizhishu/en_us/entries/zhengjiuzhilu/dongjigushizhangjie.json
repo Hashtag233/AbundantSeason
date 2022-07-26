@@ -1,0 +1,15 @@
+{
+    "sortnum":7,
+    "advancement": "wwworld:huo_de_dong_ji_gu_shi_zhi_zhang",
+    "name": "冬季故事纸张",
+    "icon": "wwworld:dongjigushizhizhang",
+    "category": "zhengjiuzhilu",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:dongjigushizhizhang",
+
+      "text": "自从那一次，神秘人便再也没有出现过，人类们总想着去找回四季,却又害怕遇到危险，直到有一批冒险者自发去寻找了，自那以后的几年，他们了无音讯，人们彻底断了希望，在绝望中度过......直到你出现了，四季冒险家，你便是人们的最后希望。"
+      }  
+    ]
+  }

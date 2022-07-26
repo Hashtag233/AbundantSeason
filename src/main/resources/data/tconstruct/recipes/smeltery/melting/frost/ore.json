@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:ore_melting",
+  "ingredient": {
+    "item": "wwworld:bingshuangkuangshi"
+  },
+  "result": {
+    "fluid": "wwworld:molten_frost",
+    "amount": 144
+  },
+  "temperature": 200,
+  "time": 59,
+  "byproducts": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 16
+    }
+  ]
+}

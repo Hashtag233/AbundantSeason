@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:yanjiangping"
+    },
+    "title": {
+      "translate": "advancements.drink_lava_bottle.title"
+    },
+    "description": {
+      "translate": "advancements.drink_lava_bottle.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "drink_lava_bottle": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "wwworld:get_wind_ore"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wwworld:block/huiyantaijie"
+    },
+    "type=top": {
+      "model": "wwworld:block/huiyantaijie_top"
+    },
+    "type=double": {
+      "model": "wwworld:block/huiyantaijie_full"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 3.0,
+    "cookingTime": 50,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Fensebaoshi"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Hongbaoshi"
+    },
+    "name": "hongbaoshi_2",
+    "namespace": "mod"
+  }
+}

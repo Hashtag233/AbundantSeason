@@ -1,0 +1,8 @@
+{
+  "parent": "wwworld:custom/si_ji_duan_zao_tai_",
+  "textures": {
+    "all": "wwworld:blocks/duanzao",
+    "particle": "wwworld:blocks/duanzao",
+    "0": "wwworld:blocks/duanzao"
+  }
+}

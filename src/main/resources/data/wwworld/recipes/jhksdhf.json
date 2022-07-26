@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:zongye"
+    },
+    "1": {
+      "item": "wwworld:zongye"
+    },
+    "2": {
+      "item": "wwworld:zongye"
+    }
+  },
+  "result": {
+    "item": "minecraft:paper",
+    "count": 3
+  }
+}

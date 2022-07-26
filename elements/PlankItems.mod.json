@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Mtou"
+      },
+      {
+        "value": "CUSTOM:Dongzhimuban"
+      },
+      {
+        "value": "CUSTOM:Qiuzhimuban"
+      },
+      {
+        "value": "CUSTOM:Yingzhimuban"
+      },
+      {
+        "value": "CUSTOM:Yanzhimuban"
+      },
+      {
+        "value": "CUSTOM:Fuxiumuban"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

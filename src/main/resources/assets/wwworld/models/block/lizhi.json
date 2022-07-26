@@ -1,0 +1,8 @@
+{
+  "parent": "wwworld:custom/lizhi",
+  "textures": {
+    "all": "wwworld:blocks/li_zhi_",
+    "particle": "wwworld:blocks/li_zhi_",
+    "0": "wwworld:blocks/li_zhi_"
+  }
+}

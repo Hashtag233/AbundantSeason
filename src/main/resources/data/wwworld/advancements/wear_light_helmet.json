@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:lingguangkuijia_helmet"
+    },
+    "title": {
+      "translate": "advancements.wear_light_helmet.title"
+    },
+    "description": {
+      "translate": "advancements.wear_light_helmet.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "wear_light_helmet": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "wwworld:wear_light_chestplate"
+}

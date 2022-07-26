@@ -1,0 +1,155 @@
+{
+  "yezhu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:ye_zhu_",
+        "stream": false
+      }
+    ]
+  },
+  "shuiguihua": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:shui_gui_hua_",
+        "stream": false
+      }
+    ]
+  },
+  "danxiaodesongshu": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:dan_xiao_de_song_shu_",
+        "stream": false
+      }
+    ]
+  },
+  "tengwanshengchengshi": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:teng_man_sheng_cheng_shi_",
+        "stream": false
+      }
+    ]
+  },
+  "kuangleiwuyun": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:kuang_lei_wu_yun_",
+        "stream": false
+      }
+    ]
+  },
+  "bingshuangjitan": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:bing_shuang_ji_tan_",
+        "stream": false
+      }
+    ]
+  },
+  "qie": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:qi_e_",
+        "stream": false
+      }
+    ]
+  },
+  "nanguaguai": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:nan_gua_guai_",
+        "stream": false
+      }
+    ]
+  },
+  "dong": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "wwworld:dong_ji_",
+        "stream": true
+      }
+    ]
+  },
+  "yinghua": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "wwworld:lights",
+        "stream": true
+      }
+    ]
+  },
+  "chun": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "wwworld:chun_ji_",
+        "stream": true
+      }
+    ]
+  },
+  "xia": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "wwworld:xia_ji_",
+        "stream": true
+      }
+    ]
+  },
+  "qiu": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "wwworld:qiu_ji_",
+        "stream": true
+      }
+    ]
+  },
+  "diaoling": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:hei_an_",
+        "stream": false
+      }
+    ]
+  },
+  "fuxiuweiduchuansongmenyinxiao": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:fu_xiu_wei_du_chuan_song_men_yin_xiao_",
+        "stream": false
+      }
+    ]
+  },
+  "tuboshujiajiao": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:tu_bo_shu_jia_jiao_",
+        "stream": false
+      }
+    ]
+  },
+  "tuboshuzhenjiao": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "wwworld:tu_bo_shu_zhen_jiao_",
+        "stream": false
+      }
+    ]
+  }
+}

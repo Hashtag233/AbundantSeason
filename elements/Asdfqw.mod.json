@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 150,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Dongxueyu"
+    },
+    "blastingReturnStack": {
+      "value": "Items.COOKED_FISH#0"
+    },
+    "name": "asdfqw",
+    "namespace": "mod"
+  }
+}

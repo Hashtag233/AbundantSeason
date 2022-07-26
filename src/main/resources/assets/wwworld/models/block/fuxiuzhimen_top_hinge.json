@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "wwworld:blocks/wither_door_bottom",
+    "top": "wwworld:blocks/wither_door_top"
+  }
+}

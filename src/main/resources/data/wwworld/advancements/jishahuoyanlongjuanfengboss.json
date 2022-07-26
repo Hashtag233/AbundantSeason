@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:huoyanhua"
+    },
+    "title": {
+      "translate": "advancements.jishahuoyanlongjuanfengboss.title"
+    },
+    "description": {
+      "translate": "advancements.jishahuoyanlongjuanfengboss.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "jishahuoyanlongjuanfengboss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wwworld:huo_de_xia_ji_gu_shi_zhi_zhang"
+}

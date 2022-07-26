@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "wwworld:blocks/xia_ji_kuang_shi_",
+    "particle": "wwworld:blocks/xia_ji_kuang_shi_"
+  }
+}

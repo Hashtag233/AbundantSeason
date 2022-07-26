@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:duciweipi"
+    },
+    "2": {
+      "item": "wwworld:duciweipi"
+    },
+    "3": {
+      "item": "wwworld:duciweipi"
+    },
+    "4": {
+      "item": "wwworld:duciweipi"
+    },
+    "5": {
+      "item": "wwworld:duciweipi"
+    },
+    "6": {
+      "item": "wwworld:duciweipi"
+    },
+    "7": {
+      "item": "wwworld:duciweipi"
+    },
+    "8": {
+      "item": "wwworld:duciweipi"
+    }
+  },
+  "result": {
+    "item": "wwworld:judukuijia_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "1": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "2": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "4": {
+      "item": "wwworld:yanzhigun"
+    },
+    "7": {
+      "item": "wwworld:yanzhigun"
+    }
+  },
+  "result": {
+    "item": "wwworld:zhiregao",
+    "count": 1
+  }
+}

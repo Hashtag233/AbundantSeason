@@ -1,0 +1,9 @@
+{
+  "parent": "wwworld:custom/block_bingshuangshouhuzhe",
+  "textures": {
+    "all": "wwworld:blocks/bingshuangshouhuzhe",
+    "particle": "wwworld:blocks/bingshuangshouhuzhe",
+    "0": "wwworld:blocks/bingshuangshouhuzhe",
+    "1": "wwworld:blocks/dongyu"
+  }
+}

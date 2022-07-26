@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Shumu"
+      },
+      {
+        "value": "CUSTOM:Bluetree"
+      },
+      {
+        "value": "CUSTOM:Qiuzhishumu"
+      },
+      {
+        "value": "CUSTOM:Yingzhimu"
+      },
+      {
+        "value": "CUSTOM:Yanzhimu"
+      },
+      {
+        "value": "CUSTOM:Fuxiuzhimu"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

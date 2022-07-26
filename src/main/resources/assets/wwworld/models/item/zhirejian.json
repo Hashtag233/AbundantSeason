@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "wwworld:items/zhi_re_shuang_jian_"
+  }
+}

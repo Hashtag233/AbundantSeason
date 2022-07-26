@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/yun_zhi_hua_",
+    "particle": "wwworld:blocks/yun_zhi_hua_"
+  }
+}

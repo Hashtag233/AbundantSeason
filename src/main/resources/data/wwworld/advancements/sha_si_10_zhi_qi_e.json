@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:qiqyumao"
+    },
+    "title": {
+      "translate": "advancements.sha_si_10_zhi_qi_e.title"
+    },
+    "description": {
+      "translate": "advancements.sha_si_10_zhi_qi_e.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "sha_si_10_zhi_qi_e": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "wwworld:sijiangranmaoxian"
+}

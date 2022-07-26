@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwworld:shuidao_1"
+    }
+  ],
+  "result": {
+    "item": "wwworld:mi",
+    "count": 1
+  }
+}

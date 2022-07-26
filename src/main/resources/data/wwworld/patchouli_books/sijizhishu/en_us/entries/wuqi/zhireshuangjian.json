@@ -1,0 +1,19 @@
+{
+    "sortnum": 11,
+    "advancement": "wwworld:enter_summer",
+    "name": "炙热双剑",
+    "icon": "wwworld:zhirejian",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:zhirejian",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:10$(br2)耐久:300$(br2)是否防火:是"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:使目标拥有3秒燃烧效果$(br2)特殊：如果双手都拿着炙热双剑，将会拥有1级力量效果$(br2)材料获取小提示:炙热之石可以通过在夏季群系—火山地带地表或地下挖取炙热矿石获得炙热之粒，并合成获得"
+      }
+    ]
+  }

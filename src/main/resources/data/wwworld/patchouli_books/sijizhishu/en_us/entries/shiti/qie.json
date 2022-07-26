@@ -1,0 +1,21 @@
+{
+    "sortnum": 2,
+    "name": "企鹅",
+    "icon": "wwworld:qie_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:qie",
+        "text": "生命值:6 攻击力:0 稀有度:中$(br)掉落物:企鹅羽毛"
+      },
+      {
+        "type": "text",
+        "text": "类型:友好(陆地)$(br)生成:冬季群系—寒潮林(全天)$(br2)特点:$(br)仿照QQ企鹅做的[doge]"
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+  }

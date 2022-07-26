@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "1": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "2": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "3": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "4": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "5": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "6": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "7": {
+      "item": "wwworld:cuaixinshi"
+    },
+    "8": {
+      "item": "wwworld:cuaixinshi"
+    }
+  },
+  "result": {
+    "item": "wwworld:cuaixinkuang",
+    "count": 1
+  }
+}

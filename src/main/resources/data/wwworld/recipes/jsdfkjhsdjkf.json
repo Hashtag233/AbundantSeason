@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 150,
+  "ingredient": {
+    "item": "wwworld:qie_1"
+  },
+  "result": {
+    "item": "wwworld:qierou"
+  }
+}

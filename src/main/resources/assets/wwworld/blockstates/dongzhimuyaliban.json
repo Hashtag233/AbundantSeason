@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "wwworld:block/dongzhimuyaliban"
+    },
+    "powered=true": {
+      "model": "wwworld:block/dongzhimuyaliban_down"
+    }
+  }
+}

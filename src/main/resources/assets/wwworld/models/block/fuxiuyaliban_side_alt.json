@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "wwworld:blocks/diao_ling_mu_ding_bu_",
+    "pane": "wwworld:blocks/fuxiumuban"
+  }
+}

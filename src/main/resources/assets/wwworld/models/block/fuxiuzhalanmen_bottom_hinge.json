@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "wwworld:blocks/fuxiumuban",
+    "top": "wwworld:blocks/diao_ling_mu_ding_bu_"
+  }
+}

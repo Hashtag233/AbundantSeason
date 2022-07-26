@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "wwworld:block/fuxiuweidu_portal_ew"
+    },
+    "axis=x": {
+      "model": "wwworld:block/fuxiuweidu_portal_ns"
+    }
+  }
+}

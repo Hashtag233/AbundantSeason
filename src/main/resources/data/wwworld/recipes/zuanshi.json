@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:zuanshili"
+    },
+    "1": {
+      "item": "wwworld:zuanshili"
+    },
+    "2": {
+      "item": "wwworld:zuanshili"
+    },
+    "3": {
+      "item": "wwworld:zuanshili"
+    },
+    "4": {
+      "item": "wwworld:zuanshili"
+    },
+    "5": {
+      "item": "wwworld:zuanshili"
+    },
+    "6": {
+      "item": "wwworld:zuanshili"
+    },
+    "7": {
+      "item": "wwworld:zuanshili"
+    },
+    "8": {
+      "item": "wwworld:zuanshili"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

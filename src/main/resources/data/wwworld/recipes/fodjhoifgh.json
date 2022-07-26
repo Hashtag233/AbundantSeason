@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yanzhisuipian"
+    },
+    "1": {
+      "item": "wwworld:yanzhisuipian"
+    },
+    "2": {
+      "item": "wwworld:yanzhisuipian"
+    },
+    "3": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "4": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "5": {
+      "item": "wwworld:zhirezhishi"
+    },
+    "6": {
+      "item": "wwworld:yanzhisuipian"
+    },
+    "7": {
+      "item": "wwworld:yanzhisuipian"
+    },
+    "8": {
+      "item": "wwworld:yanzhisuipian"
+    }
+  },
+  "result": {
+    "item": "wwworld:huoyanhuaquan_helmet",
+    "count": 1
+  }
+}

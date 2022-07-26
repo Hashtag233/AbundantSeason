@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/chun_ji_shu_gan_ding_",
+    "up": "wwworld:blocks/chun_ji_shu_gan_ding_",
+    "north": "wwworld:blocks/chun_ji_shu_pi_",
+    "east": "wwworld:blocks/chun_ji_shu_pi_",
+    "south": "wwworld:blocks/chun_ji_shu_pi_",
+    "west": "wwworld:blocks/chun_ji_shu_pi_",
+    "particle": "wwworld:blocks/chun_ji_shu_gan_ding_"
+  }
+}

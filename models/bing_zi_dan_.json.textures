@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bingzidan",
+        "1": "bing_zi_dan_1"
+      },
+      "name": "default"
+    }
+  }
+}

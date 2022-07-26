@@ -1,0 +1,8 @@
+{
+  "parent": "wwworld:custom/xiao_shi_tou_",
+  "textures": {
+    "all": "wwworld:blocks/shi",
+    "particle": "wwworld:blocks/stone",
+    "0": "wwworld:blocks/stone"
+  }
+}

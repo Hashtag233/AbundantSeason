@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "li_zhi_",
+    "customModelName": "Normal",
+    "name": "Litchi",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 7.0,
+    "eatingSpeed": 18,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "LizhishifoodDangYouJianDianJiFangKuaiShi"
+    },
+    "onEaten": {
+      "name": "LizhishifoodDangShiWuBeiChiShi"
+    }
+  }
+}

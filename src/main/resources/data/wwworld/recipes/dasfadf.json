@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:guangyuansu"
+    },
+    "1": {
+      "item": "wwworld:guangyuansu"
+    },
+    "2": {
+      "item": "wwworld:guangyuansu"
+    },
+    "3": {
+      "item": "wwworld:guangyuansu"
+    },
+    "5": {
+      "item": "wwworld:guangyuansu"
+    }
+  },
+  "result": {
+    "item": "wwworld:guangmingtoukui_helmet",
+    "count": 1
+  }
+}

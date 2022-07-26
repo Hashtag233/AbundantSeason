@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 2,
+    "name": "毒刺胸甲",
+    "icon": "wwworld:judukuijia_chestplate",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:judukuijia_chestplate",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(胸甲):255$(br2)附魔能力:10"
+      },
+      {
+        "type": "text",
+        "text": "特点:穿上剧毒胸甲被实体攻击将会使那个实体受到3点伤害+2级3秒剧毒效果 $(br2)材料获取小提示:毒刺皮可以通过击杀春季群系—繁茂异林中生成的剧毒刺猬有60％概率获得1个，40％概率获得2个，20％概率获得3个"
+      }
+        
+        
+      
+    ]
+  }

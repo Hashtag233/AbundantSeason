@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwworld:dongzhimuban"
+    }
+  ],
+  "result": {
+    "item": "wwworld:dongzhimuanniu",
+    "count": 1
+  }
+}

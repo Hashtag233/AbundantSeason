@@ -1,0 +1,22 @@
+{
+    "sortnum": 15,
+    "advancement": "wwworld:jishatengwannvwangboss",
+    "name": "藤蔓女王boss",
+    "icon": "wwworld:vine_queen_spawn_egg",
+    "category": "shiti",
+    "pages": [
+      {
+        "type": "entity",
+        "entity": "wwworld:vine_queen",
+        "text": "生命值:120 攻击力:19 稀有度:?$(br)掉落物:春季宝石"
+      },
+      {
+        "type": "text",
+        "text": "类型:敌对(陆地)$(br)生成:用春季故事纸张右键藤蔓祭坛$(br2)特点:$(br)第一阶段—只能攻击周围4个藤蔓,攻击主体不会扣主体的血,反而玩家会受到5点伤害,周围会大量生长荆刺丛,还有藤蔓怪(发射中毒子弹),爆炸藤蔓(会动)接触到玩家将产生小爆炸$(br)第二形态—可以直接攻击主体了,并增加了一个召唤生物—花小怪(一下就秒了,但是速度超快),周围会再长一轮藤蔓        "
+    },
+    {
+        "type": "text",
+        "text": "生物故事:暂无"
+    }
+    ]
+}

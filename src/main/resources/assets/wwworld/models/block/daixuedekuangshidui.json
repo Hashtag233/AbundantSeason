@@ -1,0 +1,9 @@
+{
+  "parent": "wwworld:custom/dai_xue_da_shi_tou_",
+  "textures": {
+    "all": "wwworld:blocks/daixued",
+    "particle": "wwworld:blocks/daixued",
+    "0": "wwworld:blocks/daixued",
+    "1": "wwworld:blocks/dong_ji_cao_fang_kuai_"
+  }
+}

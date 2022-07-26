@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yunduofangkuai"
+    },
+    "2": {
+      "item": "wwworld:yunduofangkuai"
+    },
+    "3": {
+      "item": "wwworld:yunduofangkuai"
+    },
+    "5": {
+      "item": "wwworld:yunduofangkuai"
+    }
+  },
+  "result": {
+    "item": "wwworld:xuezi_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "wwworld:fuxiuweidu"
+    },
+    "title": {
+      "translate": "advancements.yong_sha_siboss_huo_de_de_bao_shi_he_cheng_si_ji_bao_shi_ji_huo_fu_xiu_wei_du_chuan_song_men_bing_jin_ru.title"
+    },
+    "description": {
+      "translate": "advancements.yong_sha_siboss_huo_de_de_bao_shi_he_cheng_si_ji_bao_shi_ji_huo_fu_xiu_wei_du_chuan_song_men_bing_jin_ru.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "yong_sha_siboss_huo_de_de_bao_shi_he_cheng_si_ji_bao_shi_ji_huo_fu_xiu_wei_du_chuan_song_men_bing_jin_ru": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "wwworld:fuxiuweidu"
+      }
+    }
+  },
+  "parent": "wwworld:jishabingshuangshouhuzheboss"
+}

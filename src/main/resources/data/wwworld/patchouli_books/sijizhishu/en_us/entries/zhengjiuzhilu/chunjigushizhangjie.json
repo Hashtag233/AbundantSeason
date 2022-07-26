@@ -1,0 +1,14 @@
+{
+    "sortnum":4,
+    "advancement": "wwworld:huodechunjigushizhizhang",
+    "name": "春季故事纸张",
+    "icon": "wwworld:chunjigushizhizhang",
+    "category": "zhengjiuzhilu",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:chunjigushizhizhang",
+        "text": "在很久以前的一个小村庄里有个小孩手拿着本日记，他通过那本日记知道了有一种方法可以为四季服务让四季变得快乐，他就在想：我们一直都因为四季而很快乐，可是现在有一些已经不尊敬大自然的人了，那么我应该让它们快乐起来！"
+      }  
+    ]
+  }

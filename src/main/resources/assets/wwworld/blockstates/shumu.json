@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "wwworld:block/shumu",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "wwworld:block/shumu"
+    },
+    "axis=z": {
+      "model": "wwworld:block/shumu",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "wwworld:blocks/yingzhimuban",
+    "particle": "wwworld:blocks/yingzhimuban"
+  }
+}

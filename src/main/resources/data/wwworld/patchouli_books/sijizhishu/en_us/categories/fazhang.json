@@ -1,0 +1,12 @@
+{
+"book_texture":"patchouli:textures/gui/book_purple.png",
+
+"sortnum": 5,
+
+"name": "法杖",
+
+"description": "在这里你将可以得知所有法杖的信息！",
+
+"icon": "wwworld:bingshuangfazhang"
+
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "cao_mei_wu_pin_",
+    "customModelName": "Normal",
+    "name": "Strawberry",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 3,
+    "saturation": 5.0,
+    "eatingSpeed": 18,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onRightClickedOnBlock": {
+      "name": "CaomeiDangYouJianDianJiFangKuaiShi"
+    },
+    "onEaten": {
+      "name": "CaomeiDangShiWuBeiChiShi"
+    }
+  }
+}

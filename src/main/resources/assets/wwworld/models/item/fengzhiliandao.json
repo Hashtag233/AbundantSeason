@@ -1,0 +1,7 @@
+{
+  "parent": "wwworld:custom/qiuzhiliandao12",
+  "textures": {
+    "0": "wwworld:blocks/qiuzhilianlian",
+    "particle": "wwworld:items/lian_dao_"
+  }
+}

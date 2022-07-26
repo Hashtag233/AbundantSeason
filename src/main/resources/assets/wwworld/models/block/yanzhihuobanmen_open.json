@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "wwworld:blocks/fire_door_bottom",
+    "particle": "wwworld:blocks/fire_door_bottom"
+  }
+}

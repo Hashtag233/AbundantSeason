@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Huiyankuai"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Huiyankuai"
+      },
+      {
+        "value": "CUSTOM:Huiyankuai"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Huiyankuai"
+      },
+      {
+        "value": "CUSTOM:Huiyankuai"
+      },
+      {
+        "value": "CUSTOM:Huiyankuai"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Huiyanlouti"
+    },
+    "name": "qwed_d",
+    "namespace": "mod"
+  }
+}

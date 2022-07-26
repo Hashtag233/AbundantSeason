@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "wwworld:block/chunzhibanzhuan"
+    },
+    "type=top": {
+      "model": "wwworld:block/chunzhibanzhuan_top"
+    },
+    "type=double": {
+      "model": "wwworld:block/chunzhibanzhuan_full"
+    }
+  }
+}

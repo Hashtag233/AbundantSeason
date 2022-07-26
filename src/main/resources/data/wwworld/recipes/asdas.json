@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "1": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "2": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "3": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "4": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "5": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "6": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "7": {
+      "item": "wwworld:bingshuangzhiding"
+    },
+    "8": {
+      "item": "wwworld:bingshuangzhiding"
+    }
+  },
+  "result": {
+    "item": "wwworld:bingshuangzhikuai",
+    "count": 1
+  }
+}

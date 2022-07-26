@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/zhireyan",
+    "up": "wwworld:blocks/xiazhicaofangkuai",
+    "north": "wwworld:blocks/xiazhicaofangkuai1",
+    "east": "wwworld:blocks/xiazhicaofangkuai1",
+    "south": "wwworld:blocks/xiazhicaofangkuai1",
+    "west": "wwworld:blocks/xiazhicaofangkuai1",
+    "particle": "wwworld:blocks/zhireyan"
+  }
+}

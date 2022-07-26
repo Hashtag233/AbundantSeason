@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "wwworld:yunnaitong"
+    },
+    "3": {
+      "item": "wwworld:yunnaitong"
+    },
+    "4": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "5": {
+      "item": "wwworld:yunnaitong"
+    },
+    "7": {
+      "item": "wwworld:yunnaitong"
+    }
+  },
+  "result": {
+    "item": "wwworld:yunnaiding",
+    "count": 1
+  }
+}

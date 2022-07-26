@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wwworld:fuxiumuban"
+    }
+  ],
+  "result": {
+    "item": "wwworld:fuxiuanniu",
+    "count": 1
+  }
+}

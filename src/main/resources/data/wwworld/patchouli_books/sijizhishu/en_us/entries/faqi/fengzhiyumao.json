@@ -1,0 +1,17 @@
+{
+    "sortnum": 3,
+    "name": "风之羽",
+    "icon": "wwworld:fengzhiyumao",
+    "category": "faqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:fengzhiyumao",
+        "text": "技能:使9x9x9范围内(除了本身)所有实体获得6级2秒漂浮效果(冷却35秒)$(br2)耐久:350$(br2)材料获取小提示:奇异羽毛是通过击杀秋季群系—风林的鸡精怪有概率获得的"
+      },
+        {
+          "type": "text",
+          "text": "注意：此武器必须要在四季锻造台中合成，会有合成表提供"
+      }
+    ]
+  }

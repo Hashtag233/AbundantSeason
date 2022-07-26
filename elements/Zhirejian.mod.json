@@ -1,0 +1,35 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "zhi_re_shuang_jian_",
+    "customModelName": "Normal",
+    "name": "Scorching Sword",
+    "specialInfo": [
+      "½¨ÒéË«³Ö"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Wuqi"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.8,
+    "enchantability": 10,
+    "damageVsEntity": 1.0,
+    "usageCount": 400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "ZhirejianDangShiTiBeiGongJuJiZhongShi"
+    },
+    "onItemInUseTick": {
+      "name": "ZhirejianDangGongJuChuXianZaiShouZhongShi"
+    }
+  }
+}

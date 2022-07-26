@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "wwworld:blocks/chun_ji_mu_ban_"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "1": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "2": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "3": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "4": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "5": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "6": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "7": {
+      "item": "wwworld:jingyanqiu"
+    },
+    "8": {
+      "item": "wwworld:jingyanqiu"
+    }
+  },
+  "result": {
+    "item": "wwworld:jingyanding",
+    "count": 1
+  }
+}

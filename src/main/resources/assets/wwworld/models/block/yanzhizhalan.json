@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "wwworld:blocks/fire_door_bottom",
+    "particle": "wwworld:blocks/fire_door_bottom"
+  }
+}

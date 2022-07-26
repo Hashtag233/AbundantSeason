@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lei_ming_zhi_jian_",
+    "customModelName": "Normal",
+    "name": "Lightning Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Wuqi"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 1.6,
+    "enchantability": 12,
+    "damageVsEntity": 3.9999999999999996,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "LightningSwordRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "LightningSwordLivingEntityIsHitWithTool"
+    }
+  }
+}

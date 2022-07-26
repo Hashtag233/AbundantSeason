@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "name": "wwworld:liquid_glow",
+    "amount": 144
+  },
+  "result": "wwworld:yingguangding",
+  "cooling_time": 31
+}

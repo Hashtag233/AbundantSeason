@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 5,
+    "name": "光明套装",
+    "icon": "wwworld:guangmingtoukui_chestplate",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:guangmingtoukui_chestplate,wwworld:guangmingtoukui_helmet",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔—>胸甲):195 225$(br2)附魔能力:8"
+      },
+      {
+        "type": "text",
+        "text": "特点:全套穿上后本身获得夜视效果$(br2)材料获取小提示:光元素可以通过在秋季群系—风林找到恐怖南瓜，挖掘后有概率刷出一个南瓜怪，击杀南瓜怪后有90％获得一个，60％获得2个，30％获得3个"
+      }
+        
+        
+      
+    ]
+  }

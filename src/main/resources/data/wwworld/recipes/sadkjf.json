@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:yingguangding"
+    },
+    "1": {
+      "item": "wwworld:yingguangding"
+    },
+    "2": {
+      "item": "wwworld:yingguangding"
+    },
+    "3": {
+      "item": "wwworld:yingguangding"
+    },
+    "4": {
+      "item": "wwworld:yingguangding"
+    },
+    "5": {
+      "item": "wwworld:yingguangding"
+    },
+    "6": {
+      "item": "wwworld:yingguangding"
+    },
+    "7": {
+      "item": "wwworld:yingguangding"
+    },
+    "8": {
+      "item": "wwworld:yingguangding"
+    }
+  },
+  "result": {
+    "item": "wwworld:zhenhunfangkuai",
+    "count": 1
+  }
+}

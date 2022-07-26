@@ -1,0 +1,12 @@
+{
+"book_texture":"patchouli:textures/gui/book_purple.png",
+
+"sortnum": 3,
+
+"name": "装备",
+
+"description": "在这里你将可以得知所有装备的信息！（提示：你应该去研究一下首批冒险家在夏季群系—蘑菇林所经历的故事，这样你就能去夏季维度并解锁被封锁的内容）",
+
+"icon": "wwworld:judukuijia_chestplate"
+
+}

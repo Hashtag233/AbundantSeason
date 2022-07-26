@@ -1,0 +1,21 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 3,
+    "name": "风帽",
+    "icon": "wwworld:fengzhijia_helmet",
+    "category": "zhuangbei",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:fengzhijia_helmet",
+        "text": "部分信息请把鼠标移到图标处查看$(br2)耐久(头盔):91$(br2)附魔能力:5"
+      },
+      {
+        "type": "text",
+        "text": "特点:当你自身拥有漂浮效果时，会自动清除(建议用在让你总是飞天的生物身上，比云靴还好用)$(br2)材料获取小提示:风元素可以通过击杀秋季群系—风林中生成的龙卷风怪来掉落，有70％掉落1个，40％掉落2个,云快可以通过在秋季群系—坠落天空的上方找到拥有很多云块的白云团结构，挖掘后获得白云碎片，再合成即可"
+      }
+        
+        
+      
+    ]
+  }

@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "wwworld:blocks/yingzhimen1",
+    "top": "wwworld:blocks/yingzhimen"
+  }
+}

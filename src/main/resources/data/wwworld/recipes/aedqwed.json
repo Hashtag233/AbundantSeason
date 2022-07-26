@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:huiyankuai"
+    },
+    "1": {
+      "item": "wwworld:huiyankuai"
+    },
+    "2": {
+      "item": "wwworld:huiyankuai"
+    }
+  },
+  "result": {
+    "item": "wwworld:huiyantaijie",
+    "count": 6
+  }
+}

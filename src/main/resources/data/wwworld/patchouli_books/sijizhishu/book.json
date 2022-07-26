@@ -1,0 +1,9 @@
+{
+  "book_texture":"patchouli:textures/gui/book_purple.png",
+  "name": "四季之书",
+  "landing_text": "你好，我的新主人$(playername)，我将为你奉上我仅有的消息，辅助你拯救主世界的四季，让我助你一臂之力吧！",
+  "creative_tab": "tabyuanjingwupin",
+  "model":"wwworld:sijizhishu",
+  "show_progress": false,
+  "version": 1
+}

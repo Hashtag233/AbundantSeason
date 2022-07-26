@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "wwworld:blocks/tengwan",
+    "particle": "wwworld:blocks/tengwan"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "yun_nai_tong_",
+    "customModelName": "Normal",
+    "name": "Cloud Milk Bucket",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Shiwu"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 3.0,
+    "eatingSpeed": 64,
+    "resultItem": {
+      "value": "Items.BUCKET"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "drink",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "YunnaitongDangShiWuBeiChiShi"
+    }
+  }
+}

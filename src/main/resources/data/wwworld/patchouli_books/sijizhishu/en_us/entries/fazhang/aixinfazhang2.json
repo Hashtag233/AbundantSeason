@@ -1,0 +1,14 @@
+{
+    "sortnum": 6,
+    "name": "爱心法杖(2级)",
+    "icon": "wwworld:shengmingfazhang_2",
+    "category": "fazhang",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:shengmingfazhang_2",
+
+      "text": "技能:使9x9x9范围的实体清除任何药水效果并获得4级5秒生命恢复效果(冷却30秒)$(br2)耐久:500$(br2)材料获取小提示:爱心之块可以通过在春季群系—繁茂异林地下挖取爱心矿石，并烧制，再合成即可获得1个"
+    }
+    ]
+  }

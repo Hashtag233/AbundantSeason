@@ -1,0 +1,194 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Bluetree"
+      },
+      {
+        "value": "CUSTOM:Shuye"
+      },
+      {
+        "value": "CUSTOM:Shumu"
+      },
+      {
+        "value": "CUSTOM:Dongzhiye"
+      },
+      {
+        "value": "CUSTOM:Bingdongguo"
+      },
+      {
+        "value": "CUSTOM:Qiuzhishumu"
+      },
+      {
+        "value": "CUSTOM:Qiuzhishuye"
+      },
+      {
+        "value": "CUSTOM:Fengzhikuangshi"
+      },
+      {
+        "value": "CUSTOM:Qiuzhitengwan"
+      },
+      {
+        "value": "CUSTOM:Zhirezhimu"
+      },
+      {
+        "value": "CUSTOM:Yingzhiye"
+      },
+      {
+        "value": "CUSTOM:Yingzhimu"
+      },
+      {
+        "value": "CUSTOM:Cubingshuangkuai"
+      },
+      {
+        "value": "CUSTOM:Songshuye"
+      },
+      {
+        "value": "CUSTOM:Yanzhiye"
+      },
+      {
+        "value": "CUSTOM:Yanzhimu"
+      },
+      {
+        "value": "CUSTOM:Zijunti"
+      },
+      {
+        "value": "CUSTOM:Fuxiuzhiye"
+      },
+      {
+        "value": "CUSTOM:Fuxiuzhimu"
+      },
+      {
+        "value": "CUSTOM:Songshujishublock"
+      },
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.LOG2"
+      },
+      {
+        "value": "Blocks.WARPED_STEM"
+      },
+      {
+        "value": "Blocks.CRIMSON_STEM"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES2"
+      },
+      {
+        "value": "Blocks.LEAVES2#0"
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "Blocks.VOID_AIR"
+      },
+      {
+        "value": "Blocks.CAVE_AIR"
+      },
+      {
+        "value": "Blocks.BROWN_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.MUSHROOM_STEM"
+      },
+      {
+        "value": "Blocks.TALLGRASS#1"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#2"
+      },
+      {
+        "value": "CUSTOM:Bingxuezhihua"
+      },
+      {
+        "value": "CUSTOM:Huahua"
+      },
+      {
+        "value": "CUSTOM:Boluo"
+      },
+      {
+        "value": "CUSTOM:Xianggua5"
+      },
+      {
+        "value": "CUSTOM:Yunhua2"
+      },
+      {
+        "value": "CUSTOM:S"
+      },
+      {
+        "value": "CUSTOM:Lizhi"
+      },
+      {
+        "value": "CUSTOM:Yingzhihua"
+      },
+      {
+        "value": "CUSTOM:Shuidao6"
+      },
+      {
+        "value": "CUSTOM:Shuidao5"
+      },
+      {
+        "value": "CUSTOM:Luwei"
+      },
+      {
+        "value": "CUSTOM:Caomei4"
+      },
+      {
+        "value": "Blocks.SOUL_LANTERN"
+      },
+      {
+        "value": "Blocks.VINE"
+      },
+      {
+        "value": "Blocks.MOB_SPAWNER"
+      },
+      {
+        "value": "CUSTOM:Jingcicong"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "CUSTOM:Shidui"
+      },
+      {
+        "value": "CUSTOM:Daixuedekuangshidui"
+      },
+      {
+        "value": "Blocks.CHAIN"
+      },
+      {
+        "value": "Blocks.SHROOMLIGHT"
+      },
+      {
+        "value": "CUSTOM:Yunduofangkuai"
+      },
+      {
+        "value": "CUSTOM:Wuyunkuai"
+      },
+      {
+        "value": "CUSTOM:Songguodong"
+      },
+      {
+        "value": "Blocks.BEE_NEST"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "road_spawn_ignore",
+    "namespace": "wwworld"
+  }
+}

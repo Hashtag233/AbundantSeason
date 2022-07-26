@@ -1,0 +1,19 @@
+{
+    "book_texture":"patchouli:textures/gui/book_purple.png",
+    "sortnum": 4,
+    "name": "风之剑",
+    "icon": "wwworld:fengzhijian",
+    "category": "wuqi",
+    "pages": [
+      {
+      "type": "spotlight",
+        "item": "wwworld:fengzhijian",
+
+      "text": "部分信息请把鼠标移到图标处查看$(br2)附魔能力:10$(br2)耐久:300$(br2)是否防火:否"
+      },
+      {
+        "type": "text",
+        "text": "普攻特别效果:使目标获得6级1.5秒的漂浮效果$(br2)材料获取小提示:风元素可以通过击杀在秋季群系—风林中生成的龙卷风怪有20％概率获得1个，5％概率获得2个"
+      }
+    ]
+  }

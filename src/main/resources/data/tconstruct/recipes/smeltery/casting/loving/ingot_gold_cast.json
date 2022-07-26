@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "name": "wwworld:molten_loving",
+    "amount": 144
+  },
+  "result": "wwworld:aixinzhiding",
+  "cooling_time": 61
+}

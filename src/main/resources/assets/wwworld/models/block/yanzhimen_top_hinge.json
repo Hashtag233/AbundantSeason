@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top_rh",
+  "textures": {
+    "bottom": "wwworld:blocks/fire_door_bottom",
+    "top": "wwworld:blocks/fire_door_bottom"
+  }
+}

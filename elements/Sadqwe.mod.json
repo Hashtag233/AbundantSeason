@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 2.0,
+    "cookingTime": 300,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Dongguiyu"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.COOKED_FISH#1"
+    },
+    "name": "sadqwe",
+    "namespace": "mod"
+  }
+}

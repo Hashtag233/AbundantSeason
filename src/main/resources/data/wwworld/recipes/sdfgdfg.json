@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:guangyuansu"
+    },
+    "2": {
+      "item": "wwworld:guangyuansu"
+    },
+    "3": {
+      "item": "wwworld:guangyuansu"
+    },
+    "4": {
+      "item": "wwworld:guangyuansu"
+    },
+    "5": {
+      "item": "wwworld:guangyuansu"
+    },
+    "6": {
+      "item": "wwworld:guangyuansu"
+    },
+    "7": {
+      "item": "wwworld:guangyuansu"
+    },
+    "8": {
+      "item": "wwworld:guangyuansu"
+    }
+  },
+  "result": {
+    "item": "wwworld:guangmingtoukui_chestplate",
+    "count": 1
+  }
+}

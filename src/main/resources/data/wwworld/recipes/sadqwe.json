@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "wwworld:dongguiyu"
+  },
+  "result": {
+    "item": "minecraft:cooked_salmon"
+  }
+}

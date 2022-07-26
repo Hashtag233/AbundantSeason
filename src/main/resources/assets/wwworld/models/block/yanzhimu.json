@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wwworld:blocks/fire_log_top",
+    "up": "wwworld:blocks/fire_log_top",
+    "north": "wwworld:blocks/fire_log",
+    "east": "wwworld:blocks/fire_log",
+    "south": "wwworld:blocks/fire_log",
+    "west": "wwworld:blocks/fire_log",
+    "particle": "wwworld:blocks/fire_log_top"
+  }
+}

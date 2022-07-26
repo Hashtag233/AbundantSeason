@@ -1,0 +1,9 @@
+{
+  "parent": "wwworld:custom/songguodong",
+  "textures": {
+    "all": "wwworld:blocks/songguodong",
+    "particle": "wwworld:blocks/songguodong",
+    "0": "wwworld:blocks/songguodong",
+    "missing": "wwworld:blocks/songguodong"
+  }
+}

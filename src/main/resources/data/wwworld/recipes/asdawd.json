@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:fengzhiding"
+    },
+    "1": {
+      "item": "wwworld:fengzhimugun"
+    },
+    "2": {
+      "item": "wwworld:fengzhimugun"
+    }
+  },
+  "result": {
+    "item": "wwworld:fengzhichan",
+    "count": 1
+  }
+}

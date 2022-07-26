@@ -1,0 +1,7 @@
+{
+  "parent": "wwworld:custom/judutiechui",
+  "textures": {
+    "0": "wwworld:blocks/judutiechui",
+    "particle": "wwworld:items/judutiechui"
+  }
+}

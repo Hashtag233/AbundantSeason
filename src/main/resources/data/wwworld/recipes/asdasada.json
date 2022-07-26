@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "wwworld:fengzhiyuansu"
+    },
+    "3": {
+      "item": "wwworld:fengzhiyuansu"
+    },
+    "4": {
+      "item": "wwworld:fengzhiyuansu"
+    },
+    "5": {
+      "item": "wwworld:fengzhiyuansu"
+    },
+    "7": {
+      "item": "wwworld:fengzhiyuansu"
+    }
+  },
+  "result": {
+    "item": "wwworld:fengzhibaoshi",
+    "count": 1
+  }
+}

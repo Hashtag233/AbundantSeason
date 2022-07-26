@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "1": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "2": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "3": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "4": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "5": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "6": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "7": {
+      "item": "wwworld:aixinzhiding"
+    },
+    "8": {
+      "item": "wwworld:aixinzhiding"
+    }
+  },
+  "result": {
+    "item": "wwworld:aixinzhikuai",
+    "count": 1
+  }
+}
